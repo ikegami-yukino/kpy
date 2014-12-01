@@ -1,0 +1,203 @@
+{
+  "001DL": [
+    "Mozilla/5.0 (Linux; U; Android 2.2; ja-jp; 001DL Build/<buildID>) AppleWebKit/533.1 (KHTMlike Gecko) Version/4.0 Mobile Safari/533.1"
+  ],
+  "001HT": [
+    "Mozilla/5.0 (Linux; U; Android 2.2; ja-jp; 001HT Build/<buildID>) AppleWebKit/533.1 (KHTMlike Gecko) Version/4.0 Mobile Safari/533.1"
+  ],
+  "003P": [
+    "Mozilla/5.0 (Linux; U; Android 2.3.3; ja-jp; 003P Build/<buildID>) AppleWebKit/533.1 (KHTMlike Gecko) Version/4.0 Mobile Safari/533.1"
+  ],
+  "SBM003SH": [
+    "Mozilla/5.0 (Linux; U; Android 2.2; ja-jp; SBM003SH Build/<buildID>) AppleWebKit/533.1 (KHTMlike Gecko) Version/4.0 Mobile Safari/533.1",
+    "Mozilla/5.0 (Linux; U; Android 2.3.4; ja-jp; SBM003SH Build/<buildID>) AppleWebKit/533.1 (KHTMlike Gecko) Version/4.0 Mobile Safari/533.1"
+  ],
+  "SBM005SH": [
+    "Mozilla/5.0 (Linux; U; Android 2.2.1; ja-jp; SBM005SH Build/<buildID>) AppleWebKit/533.1 (KHTMlike Gecko) Version/4.0 Mobile Safari/533.1",
+    "Mozilla/5.0 (Linux; U; Android 2.3.4; ja-jp; SBM005SH Build/<buildID>) AppleWebKit/533.1 (KHTMlike Gecko) Version/4.0 Mobile Safari/533.1"
+  ],
+  "SBM006SH": [
+    "Mozilla/5.0 (Linux; U; Android 2.3.3; ja-jp; SBM006SH Build/<buildID>) AppleWebKit/533.1 (KHTMlike Gecko) Version/4.0 Mobile Safari/533.1"
+  ],
+  "SBM007SH": [
+    "Mozilla/5.0 (Linux; U; Android 2.3.3; ja-jp; SBM007SH Build/<buildID>) AppleWebKit/533.1 (KHTMlike Gecko) Version/4.0 Mobile Safari/533.1"
+  ],
+  "SBM007SHJ": [
+    "Mozilla/5.0 (Linux; U; Android 2.3.3; ja-jp; SBM007SHJ Build/<buildID>) AppleWebKit/533.1 (KHTMlike Gecko) Version/4.0 Mobile Safari/533.1"
+  ],
+  "SBM007SHK": [
+    "Mozilla/5.0 (Linux; U; Android 2.3.3; ja-jp; SBM007SHK Build/<buildID>) AppleWebKit/533.1 (KHTMlike Gecko) Version/4.0 Mobile Safari/533.1"
+  ],
+  "SBM009SH": [
+    "Mozilla/5.0 (Linux; U; Android 2.3.4; ja-jp; SBM009SH Build/<buildID>) AppleWebKit/533.1 (KHTMlike Gecko) Version/4.0 Mobile Safari/533.1"
+  ],
+  "SBM009SHY": [
+    "Mozilla/5.0 (Linux; U; Android 2.3.4; ja-jp; SBM009SHY Build/<buildID>) AppleWebKit/533.1 (KHTMlike Gecko) Version/4.0 Mobile Safari/533.1 "
+  ],
+  "101DL": [
+    "Mozilla/5.0 (Linux; U; Android 2.3.5; ja-jp; 101DL Build/<buildID>) AppleWebKit/533.1 (KHTMlike Gecko) Version/4.0 Mobile Safari/533.1"
+  ],
+  "101F": [
+    "Mozilla/5.0 (Linux; U; Android 4.1.2; ja-jp; 101F Build/<buildID>) AppleWebKit/534.30 (KHTMlike Gecko) Version/4.0 Mobile Safari/534.30",
+    "Mozilla/5.0 (Linux; Android 4.1.2; 101F Build/<buildID>) AppleWebKit/537.36 (KHTMlike Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36",
+    "Mozilla/5.0 (Linux; U; Android 4.0.4; ja-jp; 101F Build/<buildID>) AppleWebKit/534.30 (KHTMlike Gecko) Version/4.0 Mobile Safari/534.30"
+  ],
+  "101K": [
+    "Mozilla/5.0 (Linux; U; Android 2.3.4; ja-jp; 101K Build/<buildID>) AppleWebKit/533.1 (KHTMlike Gecko) Version/4.0 Mobile Safari/533.1"
+  ],
+  "101N": [
+    "Mozilla/5.0 (Linux; U; Android 2.3.5; ja-jp; 101N Build/<buildID>) AppleWebKit/533.1 (KHTMlike Gecko) Version/4.0 Mobile Safari/533.1"
+  ],
+  "101P": [
+    "Mozilla/5.0 (Linux; U; Android 2.3.5; ja-jp; 101P Build/<buildID>) AppleWebKit/533.1 (KHTMlike Gecko) Version/4.0 Mobile Safari/533.1"
+  ],
+  "SBM101SH": [
+    "Mozilla/5.0 (Linux; U; Android 2.3.5; ja-jp; SBM101SH Build/<buildID>) AppleWebKit/533.1 (KHTMlike Gecko) Version/4.0 Mobile Safari/533.1"
+  ],
+  "102P": [
+    "Mozilla/5.0 (Linux; U; Android 2.3.5; ja-jp; 102P Build/<buildID>) AppleWebKit/533.1 (KHTMlike Gecko) Version/4.0 Mobile Safari/533.1"
+  ],
+  "SBM102SH": [
+    "Mozilla/5.0 (Linux; U; Android 2.3.5; ja-jp; SBM102SH Build/<buildID>) AppleWebKit/533.1 (KHTMlike Gecko) Version/4.0 Mobile Safari/533.1",
+    "Mozilla/5.0 (Linux; U; Android 4.0.4; ja-jp; SBM102SH Build/<buildID>) AppleWebKit/534.30 (KHTMlike Gecko) Version/4.0 Mobile Safari/534.30"
+  ],
+  "SBM102SH2": [
+    "Mozilla/5.0 (Linux; U; Android 2.3.5; ja-jp; SBM102SH2 Build/<buildID>) AppleWebKit/533.1 (KHTMlike Gecko) Version/4.0 Mobile Safari/533.1",
+    "Mozilla/5.0 (Linux; U; Android 4.0.4; ja-jp; SBM102SH2 Build/<buildID>) AppleWebKit/534.30 (KHTMlike Gecko) Version/4.0 Mobile Safari/534.30"
+  ],
+  "SBM103SH": [
+    "Mozilla/5.0 (Linux; U; Android 2.3.5; ja-jp; SBM103SH Build/<buildID>) AppleWebKit/533.1 (KHTMlike Gecko) Version/4.0 Mobile Safari/533.1"
+  ],
+  "SBM104SH": [
+    "Mozilla/5.0 (Linux; U; Android 4.0.3; ja-jp; SBM104SH Build/<buildID>) AppleWebKit/534.30 (KHTMlike Gecko) Version/4.0 Mobile Safari/534.30"
+  ],
+  "SBM106SH": [
+    "Mozilla/5.0 (Linux; U; Android 4.0.4; ja-jp; SBM106SH Build/<buildID>) AppleWebKit/534.30 (KHTMlike Gecko) Version/4.0 Mobile Safari/534.30"
+  ],
+  "SBM107SH": [
+    "Mozilla/5.0 (Linux; U; Android 4.0.4; ja-jp; SBM107SH Build/<buildID>) AppleWebKit/534.30 (KHTMlike Gecko) Version/4.0 Mobile Safari/534.30"
+  ],
+  "SBM107SHB": [
+    "Mozilla/5.0 (Linux; U; Android 4.0.4; ja-jp; SBM107SHB Build/<buildID>) AppleWebKit/534.30 (KHTMlike Gecko) Version/4.0 Mobile Safari/534.30"
+  ],
+  "SBM200SH": [
+    "Mozilla/5.0 (Linux; U; Android 4.0.4; ja-jp; SBM200SH Build/<buildID>) AppleWebKit/534.30 (KHTMlike Gecko) Version/4.0 Mobile Safari/534.30",
+    "Mozilla/5.0 (Linux; Android 4.0.4; SBM200SH Build/<buildID>) AppleWebKit/535.19 (KHTMlike Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19"
+  ],
+  "201F": [
+    "Mozilla/5.0 (Linux; U; Android 4.1.2; ja-jp; 201F Build/<buildID>) AppleWebKit/534.30 (KHTMlike Gecko) Version/4.0 Mobile Safari/534.30",
+    "Mozilla/5.0 (Linux; Android 4.1.2; 201F Build/<buildID>) AppleWebKit/535.19 (KHTMlike Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19"
+  ],
+  "201K": [
+    "Mozilla/5.0 (Linux; U; Android 4.1.2; ja-jp; 201K Build/<buildID>) AppleWebKit/534.30 (KHTMlike Gecko) Version/4.0 Mobile Safari/534.30",
+    "Mozilla/5.0 (Linux; Android 4.1.2; 201K Build/<buildID>) AppleWebKit/535.19 (KHTMlike Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19"
+  ],
+  "202F": [
+    "Mozilla/5.0 (Linux; U; Android4.2.2; ja-jp; 202F Build/<buildID>)AppleWebKit/534.30 (KHTMike Gecko) Version/4.0 MobileSafari/534.30",
+    "Mozilla/5.0 (Linux; Android4.2.2; 202F Build/<buildID>)AppleWebKit/537.31 (KHTMike Gecko)Chrome/26.0.1410.58 MobileSafari/537.31"
+  ],
+  "202K": [
+    "Mozilla/5.0 (Linux; U; Android 4.2.2; ja-jp; 202K Build/<buildID>) AppleWebKit/534.30 (KHTMlike Gecko) Version/4.0 Mobile Safari/534.30",
+    "Mozilla/5.0 (Linux; Android 4.2.2; 202K Build/<buildID>)AppleWebKit/537.36 (KHTMlike Gecko) Chrome/27.0.1453.90 Mobile Safari/537.36"
+  ],
+  "SBM203SH": [
+    "Mozilla/5.0 (Linux; U; Android 4.1.2; ja-jp; SBM203SH Build/<buildID>) AppleWebKit/534.30 (KHTMlike Gecko) Version/4.0 Mobile Safari/534.30",
+    "Mozilla/5.0 (Linux; Android 4.1.2; SBM203SH Build/<BuildID>) AppleWebKit/535.19 (KHTMlike Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19"
+  ],
+  "204HW": [
+    "Mozilla/5.0 (Linux; U; Android <Version>; ja-jp; 204HW Build/<buildID>) AppleWebKit/534.30 (KHTMlike Gecko) Version/4.0 MobileSafari/534.30"
+  ],
+  "SBM204SH": [
+    "Mozilla/5.0 (Linux; U; Android4.0.4; ja-jp; SBM204SH Build/<buildID>)AppleWebKit/534.30 (KHTMike Gecko) Version/4.0 MobileSafari/534.30"
+  ],
+  "SBM205SH": [
+    "Mozilla/5.0 (Linux; U; Android 4.1.2; ja-jp; SBM205SH Build/<buildID>) AppleWebKit/534.30 (KHTMlike Gecko) Version/4.0 Mobile Safari/534.30",
+    "Mozilla/5.0 (Linux; Android 4.1.2; SBM205SH Build/<buildID>) AppleWebKit/537.31 (KHTMlike Gecko) Chrome/26.0.1410.58 Mobile Safari/537.31"
+  ],
+  "SBM206SH": [
+    "Mozilla/5.0 (Linux; U; Android 4.2.2; ja-jp; SBM206SH Build/<buildID>) AppleWebKit/534.30 (KHTMlike Gecko) Version/4.0 Mobile Safari/534.30",
+    "Mozilla/5.0 (Linux; Android 4.2.2; SBM206SH Build/<buildID>) AppleWebKit/537.31 (KHTMlike Gecko) Chrome/26.0.1410.58 Mobile Safari/537.31"
+  ],
+  "301F": [
+    "Mozilla/5.0 (Linux; U; Android 4.2.2; ja-jp; 301F Build/<buildID>) AppleWebKit/534.30 (KHTMlike Gecko) Version/4.0 Mobile Safari/534.30",
+    "Mozilla/5.0 (Linux; Android 4.2.2; 301F Build/<buildID>) AppleWebKit/537.36 (KHTMlike Gecko) Chrome/28."
+  ],
+  "302KC": [
+    "Mozilla/5.0 (Linux; Android 4.4.2; 302KC Build/<buildID>) AppleWebKit/537.36 (KHTMlike Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36",
+    "Mozilla/5.0 (Linux; Android 4.4.2; 302KC Build/<buildID>) AppleWebKit/537.36 (KHTMlike Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36"
+  ],
+  "SBM302SH": [
+    "Mozilla/5.0 (Linux; U; Android 4.2.2; ja-jp; SBM302SH Build/<buildID>) AppleWebKit/534.30 (KHTMlike Gecko) Version/4.0 Mobile Safari/534.30 ",
+    "Mozilla/5.0 (Linux; Android 4.2.2; SBM302SH Build/<buildID>) AppleWebKit/537.36 (KHTMlike Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36"
+  ],
+  "SBM303SH": [
+    "Mozilla/5.0 (Linux; U; Android 4.2.2; ja-jp; SBM303SH Build/<buildID>) AppleWebKit/534.30 (KHTMlike Gecko) Version/4.0 Mobile Safari/534.30",
+    "Mozilla/5.0 (Linux; Android 4.2.2; SBM303SH Build/<buildID>) AppleWebKit/537.36 (KHTMlike Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36"
+  ],
+  "304SH": [
+    "Mozilla/5.0 (Linux; Android 4.4.2; 304SH Build/<buildID>) AppleWebKit/537.36 (KHTMlike Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36",
+    "Mozilla/5.0 (Linux; Android 4.4.2; 304SH Build/<buildID>) AppleWebKit/537.36 (KHTMlike Gecko) Chrome/33.0.1750.136 Mobile Safari/537.36"
+  ],
+  "305SH": [
+    "Mozilla/5.0 (Linux; Android 4.4.2; 305SH Build/<buildID>) AppleWebKit/537.36 (KHTMlike Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36",
+    "Mozilla/5.0 (Linux; Android 4.4.2; 305SH Build/<buildID>) AppleWebKit/537.36 (KHTMlike Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36"
+  ],
+  "DM009SH": [
+    "Mozilla/5.0 (Linux; U; Android 2.2.1; ja-jp; DM009SH Build/<buildID>) AppleWebKit/533.1 (KHTMlike Gecko) Version/4.0 Mobile Safari/533.1",
+    "Mozilla/5.0 (Linux; U; Android 2.3.4; ja-jp; DM009SH Build/<buildID>) AppleWebKit/533.1 (KHTMlike Gecko) Version/4.0 Mobile Safari/533.1"
+  ],
+  "DM010SH": [
+    "Mozilla/5.0 (Linux; U; Android 2.3.4; ja-jp; DM010SH Build/<buildID>) AppleWebKit/533.1 (KHTMlike Gecko) Version/4.0 Mobile Safari/533.1"
+  ],
+  "DM011SH": [
+    "Mozilla/5.0 (Linux; U; Android 2.3.5; ja-jp; DM011SH Build/<buildID>) AppleWebKit/533.1 (KHTMlike Gecko) Version/4.0 Mobile Safari/533.1"
+  ],
+  "DM012SH": [
+    "Mozilla/5.0 (Linux; U; Android 2.3.5; ja-jp; DM012SH Build/<buildID>) AppleWebKit/533.1 (KHTMlike Gecko) Version/4.0 Mobile Safari/533.1"
+  ],
+  "DM013SH": [
+    "Mozilla/5.0 (Linux; U; Android 4.0.4; ja-jp; DM013SH Build/<buildID>) AppleWebKit/534.30 (KHTMlike Gecko) Version/4.0 Mobile Safari/534.30",
+    "Mozilla/5.0 (Linux; Android 4.0.4; DM013SH Build/<buildID>) AppleWebKit/535.19 (KHTMlike Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19"
+  ],
+  "DM014SH": [
+    "Mozilla/5.0 (Linux; U; Android4.1.2; ja-jp; DM014SH Build/<buildID>)AppleWebKit/534.30 (KHTMike Gecko) Version/4.0 MobileSafari/534.30",
+    "Mozilla/5.0 (Linux; Android4.1.2; DM014SH Build/<buildID>)AppleWebKit/535.19 (KHTMike Gecko)Chrome/18.0.1025.166 MobileSafari/535.19",
+    "Mozilla/5.0 (Linux; U; Android4.0.4; ja-jp; DM014SH Build/<buildID>)AppleWebKit/534.30 (KHTMike Gecko) Version/4.0 MobileSafari/534.30",
+    "Mozilla/5.0 (Linux; Android4.0.4; DM014SH Build/<buildID>)AppleWebKit/535.19 (KHTMike Gecko)Chrome/18.0.1025.166 MobileSafari/535.19"
+  ],
+  "DM015K": [
+    "Mozilla/5.0 (Linux; U; Android4.2.2; ja-jp; DM015K Build/<buildID>)AppleWebKit/534.30 (KHTMike Gecko) Version/4.0 MobileSafari/534.30",
+    "Mozilla/5.0 (Linux; Android4.2.2; DM015K Build/<buildID>)AppleWebKit/537.31 (KHTMike Gecko)Chrome/26.0.1410.58 MobileSafari/537.31"
+  ],
+  "DM016SH": [
+    "Mozilla/5.0 (Linux; U; Android 4.2.2; ja-jp; DM016SH Build/<buildID>) AppleWebKit/534.30 (KHTMlike Gecko) Version/4.0 Mobile Safari/534.30 ",
+    "Mozilla/5.0 (Linux; Android 4.2.2; DM016SH Build/<buildID>) AppleWebKit/537.36 (KHTMlike Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36"
+  ],
+  "EM01F": [
+    "Mozilla/5.0 (Linux; U; Android 4.1.2; ja-jp; EM01F Build/<buildID>) AppleWebKit/534.30 (KHTMlike Gecko) Version/4.0 Mobile Safari/534.30",
+    "Mozilla/5.0 (Linux; Android 4.1.2; EM01F Build/<buildID>) AppleWebKit/535.19 (KHTMlike Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19"
+  ],
+  "Nexus 5": [
+    "Mozilla/5.0 (Linux; Android 4.4; Nexus 5 Build/<buildID>) AppleWebKit/537.36 (KHTMlike Gecko) Chrome/30.0.1599.105 Mobile Safari/537.36"
+  ],
+  "WX04K": [
+    "Mozilla/5.0 (Linux; U; Android 4.1.1; ja-jp; WX04K Build/<buildID>) AppleWebkit/534.30 (KHTMlike Gecko) Version/4.0 mobile Safari/534.30",
+    "Mozilla/5.0 (Linux; Android 4.1.1; WX04K Build/<buildID>) AppleWebKit/535.19 (KHTMlike Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19",
+    "Mozilla/5.0 (Linux; U; Android 2.3.4; ja-jp; WX04K Build/<buildID>) AppleWebkit/533.1 (KHTMlike Gecko) Version/4.0 Mobile Safari/533.1"
+  ],
+  "WX04SH": [
+    "Mozilla/5.0 (Linux; U; Android 4.1.2; ja-jp; WX04SH Build/<buildID>) AppleWebKit/534.30 (KHTMlike Gecko) Version/4.0 Mobile Safari/534.30",
+    "Mozilla/5.0 (Linux; Android 4.1.2; WX04SH Build/<buildID>) AppleWebKit/537.31 (KHTMlike Gecko) Chrome/26.0.1410.58 Mobile Safari/537.31"
+  ],
+  "WX05SH": [
+    "Mozilla/5.0 (Linux; U; Android 4.1.2; ja-jp; WX05SH Build/<buildID>) AppleWebKit/534.30(KHTMlike Gecko) Version/4.0 Mobile Safari/534.30",
+    "Mozilla/5.0 (Linux; Android 4.1.2; WX05SH Build/<buildID>) AppleWebKit/537.36 (KHTMlike Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36"
+  ],
+  "WX06K": [
+    "Mozilla/5.0 (Linux; U; Android 2.3.4; ja-jp; WX06K Build/<buildID>) AppleWebkit/533.1 (KHTMlike Gecko) Version/4.0 Mobile Safari/533.1"
+  ],
+  "WX10K": [
+    "Mozilla/5.0 (Linux; U; Android4.2.2; ja-jp; WX10K Build/<buildID>)AppleWebKit/534.30 (KHTMike Gecko) Version/4.0 MobileSafari/534.30",
+    "Mozilla/5.0 (Linux; Android4.2.2; WX10K Build/<buildID>)AppleWebKit/537.36 (KHTMike Gecko)Chrome/27.0.1453.90 MobileSafari/537.36"
+  ]
+}

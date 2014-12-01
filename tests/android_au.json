@@ -1,0 +1,290 @@
+{
+  "SHT21": [
+    "Mozilla/5.0 (Linux; U; Android 4.1.2; ja-jp; SHT21 Build/S5140) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30", 
+    "Mozilla/5.0 (Linux; Android 4.1.2; SHT21 Build/S5140) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19", 
+    "Mozilla/5.0 (Linux; U; Android 4.0.4; ja-jp; SHT21 Build/SB221) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30", 
+    "Mozilla/5.0 (Linux; Android 4.0.4; SHT21 Build/SB221) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19"
+  ], 
+  "SHT22": [
+    "Mozilla/5.0 (Linux; U; Android 4.2.2; ja-jp; SHT22 Build/S2120) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30", 
+    "Mozilla/5.0 (Linux; Android 4.2.2; SHT22 Build/S2120) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Safari/537.36"
+  ], 
+  "URBANO PROGRESSO": [
+    "Mozilla/5.0 (Linux; U; Android 4.0.3; ja-jp; URBANO PROGRESSO Build/008.2.2400) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
+  ], 
+  "SOT21": [
+    "Mozilla/5.0 (Linux; U; Android 4.4.2; ja-jp; SOT21 Build/17.1.1.C.1.45) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30", 
+    "Mozilla/5.0 (Linux; Android 4.4.2; SOT21 Build/17.1.1.C.1.45) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Safari/537.36", 
+    "Mozilla/5.0 (Linux; Android 4.4.2; SOT21 Build/17.1.1.C.1.45) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Safari/537.36"
+  ], 
+  "FJT21": [
+    "Mozilla/5.0 (Linux; U; Android 4.2.2; ja-jp; FJT21 Build/V09R44D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30", 
+    "Mozilla/5.0 (Linux; Android 4.2.2; FJT21 Build/V09R44D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Safari/537.36", 
+    "Mozilla/5.0 (Linux; U; Android 4.2.2; ja-jp; FJT21 Build/V09R44D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30 SimplifiedBrowser"
+  ], 
+  "IS04": [
+    "Mozilla/5.0 (Linux; U; Android 2.2.2; ja-jp; IS04 Build/FFK300) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1", 
+    "Mozilla/5.0 (Linux; U; Android 2.1-update1; ja-jp; IS04 Build/FEK100) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Mobile Safari/530.17"
+  ], 
+  "IS05": [
+    "Mozilla/5.0 (Linux; U; Android 2.3.4; ja-jp; IS05 Build/S9290) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1", 
+    "Mozilla/5.0 (Linux; U; Android 2.2.1; ja-jp; IS05 Build/S2251) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+  ], 
+  "IS06": [
+    "Mozilla/5.0 (Linux; U; Android 2.2.1; ja-jp; IS06 Build/FRG83) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+  ], 
+  "IS11S": [
+    "Mozilla/5.0 (Linux; U; Android 2.3.4; ja-jp; SonyEricssonIS11S Build/4.0.1.B.0.112) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1", 
+    "Mozilla/5.0 (Linux; U; Android 2.3.3; ja-jp; SonyEricssonIS11S Build/3.0.1.C.0.80) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+  ], 
+  "FJL22": [
+    "Mozilla/5.0 (Linux; U; Android 4.2.2; ja-jp; FJL22 Build/V09R48H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30", 
+    "Mozilla/5.0 (Linux; Android 4.2.2; FJL22 Build/V09R48H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36"
+  ], 
+  "FJL21": [
+    "Mozilla/5.0 (Linux; U; Android 4.1.2; ja-jp; FJL21 Build/V07R30B)  AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30", 
+    "Mozilla/5.0 (Linux; Android 4.1.2; FJL21 Build/V07R30B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36", 
+    "Mozilla/5.0 (Linux; U; Android 4.0.4; ja-jp; FJL21 Build/V23R39X) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30", 
+    "Mozilla/5.0 (Linux; Android 4.0.4; FJL21 Build/V23R39X) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19"
+  ], 
+  "IS11T": [
+    "Mozilla/5.0 (Linux; U; Android 2.3.4; ja-jp; IS11T Build/FGK400) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+  ], 
+  "ISW16SH": [
+    "Mozilla/5.0 (Linux; U; Android 4.0.4; ja-jp; ISW16SH Build/S6151) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
+  ], 
+  "KYL21": [
+    "Mozilla/5.0 (Linux; U;Android 4.0.4; ja-jp; KYL21 Build/015.3.3510) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30", 
+    "Mozilla/5.0 (Linux; Android 4.0.4; KYL21 Build/015.3.3510) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19"
+  ], 
+  "IS12SH": [
+    "Mozilla/5.0 (Linux; U; Android 2.3.3; ja-jp; IS12SH Build/S6160) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+  ], 
+  "SOL25": [
+    "Mozilla/5.0 (Linux; U; Android 4.4.2; ja-jp; SOL25 Build/17.1.C.0.296)  AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30", 
+    "Mozilla/5.0 (Linux; Android 4.4.2; SOL25 Build/17.1.C.0.296)  AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.99 Mobile Safari/537.36", 
+    "Mozilla/5.0 (Linux; Android 4.4.2; SOL25 Build/17.1.C.0.296)  AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36"
+  ], 
+  "SOL24": [
+    "Mozilla/5.0 (Linux; U; Android 4.4.2; ja-jp; SonySOL24 Build/14.3.C.0.239) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30", 
+    "Mozilla/5.0 (Linux; Android 4.4.2; SOL24 Build/14.3.C.0.239) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+    "Mozilla/5.0 (Linux; Android 4.4.2; SOL24 Build/14.3.C.0.239) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36"
+  ], 
+  "IS12S": [
+    "Mozilla/5.0 (Linux; U; Android 4.0.4; ja-jp; SonyEricssonIS12S Build/6.1.D.0.170) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30", 
+    "Mozilla/5.0 (Linux; U; Android 2.3.7; ja-jp; SonyEricssonIS12S Build/6.0.D.0.270) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+  ], 
+  "SOL21": [
+    "Mozilla/5.0 (Linux; U; Android 4.1.2; jp-jp; SonySOL21 Build/9.1.D.0.395) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30", 
+    "Mozilla/5.0 (Linux; Android 4.1.2; SOL21 Build/9.1.D.0.395) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19", 
+    "Mozilla/5.0 (Linux; U; Android 4.0.4; ja-jp; SonySOL21 Build/9.0.F.0.195) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30", 
+    "Mozilla/5.0 (Linux; Android 4.0.4; SOL21 Build/9.0.F.0.195) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19"
+  ], 
+  "SOL23": [
+    "Mozilla/5.0 (Linux; U; Android 4.4.2; ja-jp; SonySOL23 Build/14.3.C.0.239) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30", 
+    "Mozilla/5.0 (Linux; Android 4.4.2; SOL23 Build/14.3.C.0.239) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+    "Mozilla/5.0 (Linux; Android 4.4.2; SOL23 Build/14.3.C.0.239) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36", 
+    "Mozilla/5.0 (Linux; U; Android 4.2.2; ja-jp; SonySOL23 Build/14.1.C.0.467) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30", 
+    "Mozilla/5.0 (Linux; Android 4.2.2; SOL23 Build/14.1.C.0.467)  AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36"
+  ], 
+  "SOL22": [
+    "Mozilla/5.0 (Linux; U; Android 4.2.2; ja-jp; SonySOL22 Build/10.3.1.D.0.220) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30", 
+    "Mozilla/5.0 (Linux; Android 4.2.2; SOL22 Build/10.3.1.D.0.220) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36", 
+    "Mozilla/5.0 (Linux; U; Android 4.1.2; ja-jp; SonySOL22 Build/10.2.F.3.43) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30", 
+    "Mozilla/5.0 (Linux; Android 4.1.2; SOL22 Build/10.2.F.3.43) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19"
+  ], 
+  "INFOBAR C01": [
+    "Mozilla/5.0 (Linux; U; Android 2.3.5; ja-jp; INFOBAR C01 Build/S1190) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+  ], 
+  "IS15SH": [
+    "Mozilla/5.0 (Linux; U; Android 4.0.4; ja-jp; IS15SH Build/S6230) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
+  ], 
+  "ISW11HT": [
+    "Mozilla/5.0 (Linux; U; Android 2.3.4; ja-jp; ISW11HT Build/GRJ22) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1", 
+    "Mozilla/5.0 (Linux; U; Android 2.2.1; ja-jp; ISW11HT Build/FRG83) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+  ], 
+  "HTL23": [
+    "Mozilla/5.0 (Linux; U; Android 4.4.2; ja-jp; HTL23 Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30", 
+    "Mozilla/5.0 (Linux; Android 4.4.2; HTL23 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36", 
+    "Mozilla/5.0 (Linux; Android 4.4.2; HTL23 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36"
+  ], 
+  "HTL22": [
+    "Mozilla/5.0 (Linux; U; Android 4.2.2; ja-jp; HTL22 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30", 
+    "Mozilla/5.0 (Linux; Android 4.2.2; HTL22 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36", 
+    "Mozilla/5.0 (Linux; U; Android 4.1.2; ja-jp; HTL22 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30", 
+    "Mozilla/5.0 (Linux; Android 4.1.2; HTL22 Build/JZO54K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19"
+  ], 
+  "HTL21": [
+    "Mozilla/5.0 (Linux; U; Android 4.1.1; ja-jp; HTL21 Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30", 
+    "Mozilla/5.0 (Linux; Android 4.1.1; HTL21 Build/JRO03C) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19"
+  ], 
+  "IS17SH": [
+    "Mozilla/5.0 (Linux; U; Android 4.0.4; ja-jp; IS17SH Build/S7070) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
+  ], 
+  "KYL22": [
+    "Mozilla/5.0 (Linux; U; Android 4.2.2; ja-jp; KYL22 Build/100.1.1f00) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30", 
+    "Mozilla/5.0 (Linux; Android 4.2.2; KYL22 Build/100.1.1f00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36"
+  ], 
+  "AST21": [
+    "Mozilla/5.0 (Linux; Android 4.4.2; AST21 Build/KVT49L) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Safari/537.36", 
+    "Mozilla/5.0 (Linux; Android 4.4.2; AST21 Build/KVT49L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.132 Safari/537.36"
+  ], 
+  "IS13SH": [
+    "Mozilla/5.0 (Linux; U; Android 2.3.5; ja-jp; IS13SH Build/SA310) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+  ], 
+  "ISW11SC": [
+    "Mozilla/5.0 (Linux; U; Android 4.0.4; ja-jp; ISW11SC Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
+  ], 
+  "INFOBAR A01": [
+    "Mozilla/5.0 (Linux; U; Android 2.3.3; ja-jp; INFOBAR A01 Build/S6160) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+  ], 
+  "IS14SH": [
+    "Mozilla/5.0 (Linux; U; Android 2.3.5; ja-jp; IS14SH Build/SC100) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+  ], 
+  "CAL21": [
+    "Mozilla/5.0 (Linux; U;Android 4.0.4; ja-jp; CAL21 Build/A1000091) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30", 
+    "Mozilla/5.0 (Linux; Android 4.0.4; CAL21 Build/A1000091) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19"
+  ], 
+  "SHL21": [
+    "Mozilla/5.0 (Linux; U; Android 4.1.2; ja-jp; SHL21 Build/S5170) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30", 
+    "Mozilla/5.0 (Linux; Android 4.1.2; SHL21 Build/S5170) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19", 
+    "Mozilla/5.0 (Linux; U; Android 4.0.4; ja-jp; SHL21 Build/SA132) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30", 
+    "Mozilla/5.0 (Linux; Android 4.0.4; SHL21 Build/SA132) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19"
+  ], 
+  "SHL22": [
+    "Mozilla/5.0 (Linux; U; Android 4.2.2; ja-jp; SHL22 Build/S6290) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30", 
+    "Mozilla/5.0 (Linux; U; Android 4.2.2; ja-jp; SHL22 Build/S6290) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
+  ], 
+  "SHL23": [
+    "Mozilla/5.0 (Linux; U; Android 4.2.2; ja-jp; SHL23 Build/SB070) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30", 
+    "Mozilla/5.0 (Linux; Android 4.2.2; SHL23 Build/SB070) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36"
+  ], 
+  "SHL24": [
+    "Mozilla/5.0 (Linux; U; Android 4.2.2; ja-jp; SHL24 Build/S2040) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30", 
+    "Mozilla/5.0 (Linux; Android 4.2.2; SHL24 Build/S2040) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36"
+  ], 
+  "SHL25": [
+    "Mozilla/5.0 (Linux; Android 4.4.2; SHL25 Build/S5290) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36", 
+    "Mozilla/5.0 (Linux; Android 4.4.2; SHL25 Build/S5290) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36"
+  ], 
+  "IS11SH": [
+    "Mozilla/5.0 (Linux; U; Android 2.3.3; ja-jp; IS11SH Build/S6160) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+  ], 
+  "PTL21": [
+    "Mozilla/5.0 (Linux; U;Android 4.1.2; ja-jp; PTL21 Build/JZO54K)  AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30", 
+    "Mozilla/5.0 (Linux; Android 4.1.2; PTL21 Build/JZO54K)  AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19", 
+    "Mozilla/5.0 (Linux; U;Android 4.0.4; ja-jp; PTL21 Build/IMM76I) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30", 
+    "Mozilla/5.0 (Linux; Android 4.0.4; PTL21 Build/IMM76I) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19"
+  ], 
+  "SCL21": [
+    "Mozilla/5.0 (Linux; U; Android 4.1.2; ja-jp; SCL21 Build/JZ054K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30", 
+    "Mozilla/5.0 (Linux; Android 4.1.2; SCL21 Build/JZ054K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36", 
+    "Mozilla/5.0 (Linux; U; Android 4.0.4; ja-jp; SCL21 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30", 
+    "Mozilla/5.0 (Linux; Android 4.0.4; SCL21 Build/IMM76D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19"
+  ], 
+  "SCL23": [
+    "Mozilla/5.0 (Linux; Android 4.4.2; ja-jp; SCL23 Build/KOT49H)  AppleWebKit/537.36 (KHTML, like Gecko) Version/1.6 Chrome/28.0.1500.94 Mobile Safari/537.36", 
+    "Mozilla/5.0 (Linux; Android 4.4.2; SCL23 Build/KOT49H)  AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.514 Mobile Safari/537.36", 
+    "Mozilla/5.0 (Linux; Android 4.4.2; SCL23 Build/KOT49H)  AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36"
+  ], 
+  "SCL22": [
+    "Mozilla/5.0 (Linux; Android 4.4.2; ja-jp; SCL22 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 Chrome/28.0.1500.94 Mobile Safari/537.36", 
+    "Mozilla/5.0 (Linux; Android 4.4.2; SCL22 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.517 Mobile Safari/537.36", 
+    "Mozilla/5.0 (Linux; Android 4.4.2; SCL22 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36", 
+    "Mozilla/5.0 (Linux; Android 4.3; ja-jp; SCL22 Build/JSS15J) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 Chrome/28.0.1500.94 Mobile Safari/537.36", 
+    "Mozilla/5.0 (Linux; Android 4.3; SCL22 Build/JSS15J) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36"
+  ], 
+  "LGL24": [
+    "Mozilla/5.0 (Linux; U; Android 4.4.2; ja-jp; LGL24 Build/KVT49L.LGL2410a) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.1599.103 Mobile Safari/537.36", 
+    "Mozilla/5.0 (Linux; Android 4.4.2; LGL24 Build/KVT49L.LGL2410a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+    "Mozilla/5.0 (Linux; Android 4.4.2; LGL24 Build/KVT49L.LGL2410a) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36"
+  ], 
+  "IS11CA": [
+    "Mozilla/5.0 (Linux; U; Android 2.3.3; ja-jp; IS11CA Build/01.08.00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+  ], 
+  "KYY24": [
+    "Mozilla/5.0 (Linux; Android 4.4.2; KYY24 Build/100.1.1910) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36", 
+    "Mozilla/5.0 (Linux; Android 4.4.2; KYY24 Build/100.1.1910) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36"
+  ], 
+  "IS12M": [
+    "Mozilla/5.0 (Linux; U; Android 4.0.4; ja-jp; IS12M Build/6.7.5-25_LE-8) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30", 
+    "Mozilla/5.0 (Linux; U;Android 2.3.6; ja-jp;IS12M Build/6.5.1-134_SWK-68_LE-18) AppleWebKit/533.1(KHTML, like Gecko)Version/4.0 Mobile Safari/533.1"
+  ], 
+  "KYY22": [
+    "Mozilla/5.0 (Linux; U; Android 4.2.2; ja-jp; KYY22 Build/100.2.0a30) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30", 
+    "Mozilla/5.0 (Linux; Android 4.2.2; KYY22 Build/100.2.0a30) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36"
+  ], 
+  "KYY23": [
+    "Mozilla/5.0 (Linux; Android 4.4.2; KYY23 Build/100.1.2300) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36 KYY23", 
+    "Mozilla/5.0 (Linux; Android 4.4.2; KYY23 Build/100.1.2300) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36"
+  ], 
+  "KYY21": [
+    "Mozilla/5.0 (Linux; U; Android 4.2.2; ja-jp; KYY21 Build/100.0.2480) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30", 
+    "Mozilla/5.0 (Linux; Android 4.2.2; KYY21 Build/100.0.2480) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.58 Mobile Safari/537.31"
+  ], 
+  "IS12F": [
+    "Mozilla/5.0 (Linux; U; Android 2.3.5; ja-jp; IS12F Build/FGK600) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+  ], 
+  "ISW11M": [
+    "Mozilla/5.0 (Linux; U; Android 2.3.4; ja-jp; ISW11M Build/4.5.1A-1_KDI-92_LE-24) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+  ], 
+  "IS03": [
+    "Mozilla/5.0 (Linux; U; Android 2.2.1; ja-jp; IS03 Build/S3251) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1", 
+    "Mozilla/5.0 (Linux; U; Android 2.1-update1; ja-jp; IS03 Build/SB060) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Mobile Safari/530.17"
+  ], 
+  "LGL22": [
+    "Mozilla/5.0 (Linux; U; Android 4.4.2; ja-jp; LGL22 Build/KOT49I.LGL2220c) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.1599.103 Mobile Safari/537.36", 
+    "Mozilla/5.0 (Linux; Android 4.4.2; LGL22 Build/KOT49I.LGL2220c) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+    "Mozilla/5.0 (Linux; Android 4.4.2; LGL22 Build/KOT49I.LGL2220c) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36", 
+    "Mozilla/5.0 (Linux; U; Android 4.2.2; ja-jp; LGL22 Build/JDQ39B) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.2 Mobile Safari/534.30", 
+    "Mozilla/5.0 (Linux; Android 4.2.2; LGL22 Build/JDQ39B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36 SHL23"
+  ], 
+  "LGL23": [
+    "Mozilla/5.0 (Linux; U; Android 4.2.2; ja-jp; LGL23 Build/JDQ39B) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.2 Mobile Safari/534.30", 
+    "Mozilla/5.0 (Linux; Android 4.2.2; LGL23 Build/JDQ39B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36"
+  ], 
+  "ISW11K": [
+    "Mozilla/5.0 (Linux; U; Android 2.3.5; ja-jp; ISW11K Build/134.3.0005) AppleWebkit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+  ], 
+  "LGL21": [
+    "Mozilla/5.0 (Linux; U; Android 4.0.4; ja-jp; LGL21 Build/IMM76L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30", 
+    "Mozilla/5.0 (Linux; Android 4.0.4; LGL21 Build/IMM76L) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19"
+  ], 
+  "ISW13HT": [
+    "Mozilla/5.0 (Linux; U; Android 4.0.3; ja-jp; ISW13HT Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
+  ], 
+  "HTX21": [
+    "Mozilla/5.0 (Linux; U; Android 4.1.1; ja-jp; HTX21 Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30", 
+    "Mozilla/5.0 (Linux; Android 4.1.1; HTX21 Build/JRO03C) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19"
+  ], 
+  "IS01": [
+    "Mozilla/5.0 (Linux; U; Android 1.6; ja-jp; IS01 Build/S6191) AppleWebKit/528.5+ (KHTML, like Gecko) Version/3.1.2 Mobile Safari/525.20.1"
+  ], 
+  "EIS01PT": [
+    "Mozilla/5.0 (Linux; U; Android 2.3.4; ja-jp; EIS01PT Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+  ], 
+  "ISW11F": [
+    "Mozilla/5.0 (Linux; U; Android 4.0.3; ja-jp; ISW11F Build/FIK700) AppleWebKit/534.301 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30", 
+    "Mozilla/5.0 (Linux; U; Android 2.3.5; ja-jp; ISW11F Build/FGK500) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+  ], 
+  "ISW13F": [
+    "Mozilla/5.0 (Linux; U; Android 4.0.3; ja-jp; ISW13F Build/V51R37G) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
+  ], 
+  "IS11LG": [
+    "Mozilla/5.0 (Linux; U; Android 4.0.4; ja-jp; IS11LG Build/IMM76L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30", 
+    "Mozilla/5.0 (Linux; U; Android 2.3.7; ja-jp; IS11LG Build/GWK74) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+  ], 
+  "IS11PT": [
+    "Mozilla/5.0 (Linux; U; Android 2.3.4; ja-jp; IS11PT Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+  ], 
+  "SmartTVStick": [
+    "Mozilla/5.0 (Linux; U; Android 4.0.4; ja-jp; SmartTVStick Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30"
+  ], 
+  "ISW12HT": [
+    "Mozilla/5.0 (Linux; U; Android 4.0.3; ja-jp; ISW12HT Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30", 
+    "Mozilla/5.0 (Linux; U; Android 2.3.4; ja-jp; ISW12HT Build/GRJ22) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+  ], 
+  "IS11N": [
+    "Mozilla/5.0 (Linux; U; Android 2.3.5; ja-jp; IS11N Build/01.02.00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+  ]
+}

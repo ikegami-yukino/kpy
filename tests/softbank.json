@@ -1,0 +1,987 @@
+{
+  "001N": [
+    "SoftBank/1.0/001N/NJ001[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/001N/NJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/001N/NJ001 Widgets/WGTClient/1.0",
+    "SoftBank/1.0/001N/NJ001[/Serial] Flash/Flash-Lite/3.0",
+    "Mozilla/4.08 (001N;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "001P": [
+    "SoftBank/1.0/001P/PJP10[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/001P/PJP10[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/001P/PJP10 Widgets/Widgets/2.0",
+    "SoftBank/1.0/001P/PJP10[/Serial] Flash/Flash-Lite/3.1",
+    "Mozilla/5.0 (001P;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "001SC": [
+    "SoftBank/1.0/001SC/SCJ001[/Serial] Browser/NetFront/3.5",
+    "Mozilla/5.0 (001SC;SoftBank[;Serial]) NetFront/3.5"
+  ],
+  "001SH": [
+    "SoftBank/2.0/001SH/SHJ001[/Serial] Browser/NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/2.0/001SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/2.0/001SH/SHJ001 Widgets/Widgets/1.0",
+    "SoftBank/2.0/001SH/SHJ001[/Serial] Flash/Flash-Lite/3.1",
+    "Mozilla/5.0 (001SH;SoftBank[;Serial]) NetFront/3.5"
+  ],
+  "002P": [
+    "SoftBank/1.0/002P/PJP10[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/002P/PJP10[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/002P/PJP10[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (002P;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "002Pe": [
+    "SoftBank/1.0/002Pe/PJP10[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/002Pe/PJP10[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/002Pe/PJP10[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (002Pe;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "002SH": [
+    "SoftBank/2.0/002SH/SHJ001[/Serial] Browser/NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/2.0/002SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/2.0/002SH/SHJ001 Widgets/Widgets/2.0",
+    "SoftBank/2.0/002SH/SHJ001[/Serial] Flash/Flash-Lite/3.1",
+    "Mozilla/5.0 (002SH;SoftBank[;Serial]) NetFront/3.5"
+  ],
+  "004SH": [
+    "SoftBank/2.0/004SH/SHJ001[/Serial] Browser/NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/2.0/004SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/2.0/004SH/SHJ001 Widgets/Widgets/2.0",
+    "SoftBank/2.0/004SH/SHJ001[/Serial] Flash/Flash-Lite/3.1",
+    "Mozilla/5.0 (004SH;SoftBank[;Serial]) NetFront/3.5"
+  ],
+  "008SH": [
+    "SoftBank/1.0/008SH/SHJ001[/Serial] Browser/NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/008SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/008SH/SHJ001[/Serial] Flash/Flash-Lite/3.1"
+  ],
+  "103P": [
+    "SoftBank/1.0/103P/PJP10[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/103P/PJP10[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/103P/PJP10 Widgets/Widgets/2.0",
+    "SoftBank/1.0/103P/PJP10[/Serial] Flash/Flash-Lite/3.1",
+    "Mozilla/4.08 (103P;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "105SH": [
+    "SoftBank/2.0/105SH/SHJ001[/Serial] Browser/NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/2.0/105SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/2.0/105SH/SHJ001[/Serial] Flash/Flash-Lite/3.1",
+    "Mozilla/5.0 (105SH;SoftBank[;Serial]) NetFront/3.5"
+  ],
+  "108SH": [
+    "SoftBank/1.0/108SH/SHJ001[/Serial] Browser/NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/108SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/108SH/SHJ001[/Serial] Flash/Flash-Lite/3.1"
+  ],
+  "109SH": [
+    "SoftBank/2.0/109SH/SHJ001[/Serial] Browser/NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/2.0/109SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/2.0/109SH/SHJ001 Widgets/Widgets/2.0",
+    "SoftBank/2.0/109SH/SHJ001[/Serial] Flash/Flash-Lite/3.1",
+    "Mozilla/5.0 (109SH;SoftBank[;Serial]) NetFront/3.5"
+  ],
+  "202SH": [
+    "SoftBank/2.0/202SH/SHJ001[/Serial] Browser/NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/2.0/202SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/2.0/202SH/SHJ001[/Serial] Flash/Flash-Lite/3.1",
+    "Mozilla/5.0 (202SH;SoftBank[;Serial]) NetFront/3.5"
+  ],
+  "202SHe": [
+    "SoftBank/2.0/202SHe/SHJ001[/Serial] Browser/NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/2.0/202SHe/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/2.0/202SHe/SHJ001[/Serial] Flash/Flash-Lite/3.1",
+    "Mozilla/5.0 (202SHe;SoftBank[;Serial]) NetFront/3.5"
+  ],
+  "301P": [
+    "SoftBank/1.0/301P/PJP10[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/301P/PJP10[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/301P/PJP10[/Serial] Flash/Flash-Lite/3.1",
+    "Mozilla/4.08 (301P;SoftBank;[;Serial]) NetFront/3.4"
+  ],
+  "301SH": [
+    "SoftBank/2.0/301SH/SHJ001[/Serial] Browser/NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/2.0/301SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/2.0/301SH/SHJ001 Widgets/Widgets/2.0",
+    "SoftBank/2.0/301SH/SHJ001[/Serial] Flash/Flash-Lite/3.1",
+    "Mozilla/5.0 (301SH;SoftBank[;Serial]) NetFront/3.5"
+  ],
+  "MOT-V980": [
+    "MOT-V980/80.2F.2E. MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "MOT-V980/80.2F.2E. MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1"
+  ],
+  "V702NK": [
+    "Vodafone/1.0/V702NK/NKJ001[/Serial] Series60/2.6 Nokia6630/2.39.148 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "Vodafone/1.0/V702NK/NKJ001[/Serial] Java/VF-Java/1.0 Series60/2.6 Nokia6630/2.39.146 Profile/MIDP-2.0 Configuration/CLDC-1.1"
+  ],
+  "V702NK2": [
+    "Vodafone/1.0/V702NK2/NKJ001[/Serial]Series60/2.6 Nokia6680/4.04.28 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "Vodafone/1.0/V702NK2/NKJ001[/Serial] Java/VF-Java/1.0 Series60/2.6 Nokia6630/2.39.146 Profile/MIDP-2.0 Configuration/CLDC-1.1"
+  ],
+  "MOT-C980": [
+    "MOT-C980/80.2F.2E. MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "MOT-C980/80.2F.2E. MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1"
+  ],
+  "V703N": [
+    "Vodafone/1.0/V703N/NJ001[/Serial] Browser/UP.Browser/7.0.2.1.307 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0",
+    "Vodafone/1.0/V703N/NJ001[/Serial] Java/UP.Browser/7.0.2.1.307 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0"
+  ],
+  "V703SH": [
+    "Vodafone/1.0/V703SH/SHJ001[/Serial] Browser/UP.Browser/7.0.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0",
+    "Vodafone/1.0/V703SH/SHJ001[/Serial] Java/VF-Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0",
+    "Vodafone/1.0/V703SH/SHJ001[/Serial] Flash/VF-Flash-Lite/1.1"
+  ],
+  "V703SHf": [
+    "Vodafone/1.0/V703SHf/SHJ001[/Serial] Browser/UP.Browser/7.0.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0",
+    "Vodafone/1.0/V703SHf/SHJ001[/Serial] Java/VF-Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0",
+    "Vodafone/1.0/V703SHf/SHJ001[/Serial] Flash/VF-Flash-Lite/1.1"
+  ],
+  "705N": [
+    "SoftBank/1.0/705N/NJ001[/Serial] Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/705N/NJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1"
+  ],
+  "705NK": [
+    "SoftBank/1.0/705NK/NKJ001[/Serial] Series60/3.0 NokiaN73/X.XX.XX Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/705NK/NKJ001[/Serial]Java/Java/1.0 Series60/3.0 NokiaN73/X.XX.XX Profile/MIDP-2.0 Configuration/CLDC-1.1"
+  ],
+  "705P": [
+    "SoftBank/1.0/705P/PJP10[/Serial] Browser/Teleca-Browser/3.1 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/705P/PJP10[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1"
+  ],
+  "705SC": [
+    "SoftBank/1.0/705SC/SCJ001[/Serial] Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/705SC/SCJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1"
+  ],
+  "V705SH": [
+    "Vodafone/1.0/V705SH/SHJ001[/Serial] Browser/VF-NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "Vodafone/1.0/V705SH/SHJ001[/Serial] Java/VF-Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "Vodafone/1.0/V705SH/SHJ001[/Serial] Flash/VF-Flash-Lite/1.1"
+  ],
+  "V705T": [
+    "Vodafone/1.0/V705T/TJ001[/Serial] Browser/VF-Browser/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0",
+    "Vodafone/1.0/V705T/TJ001[/Serial] Java/VF-Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0"
+  ],
+  "706N": [
+    "SoftBank/1.0/706N/NJ001[/Serial] Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/706N/NJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1"
+  ],
+  "706P": [
+    "SoftBank/1.0/706P/PJP10[/Serial] Browser/Teleca-Browser/3.1 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/706P/PJP10[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1"
+  ],
+  "706SC": [
+    "SoftBank/1.0/706SC/SCJ001[/Serial] Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/706SC/SCJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1"
+  ],
+  "707SC": [
+    "SoftBank/1.0/707SC/SCJ001[/Serial] Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/707SC/SCJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1"
+  ],
+  "707SC2": [
+    "SoftBank/1.0/707SC2/SCJ001[/Serial] Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/707SC2/SCJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1"
+  ],
+  "708SC": [
+    "SoftBank/1.0/708SC/SCJ001[/Serial] Browser/NetFront/3.3"
+  ],
+  "709SC": [
+    "SoftBank/1.0/709SC/SCJ001[/Serial] Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/709SC/SCJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1"
+  ],
+  "731SC": [
+    "SoftBank/1.0/731SC/SCJ001[/Serial] Browser/NetFront/3.3",
+    "Mozilla/4.08 (731SC;SoftBank[;Serial]) NetFront/3.3"
+  ],
+  "740SC": [
+    "SoftBank/1.0/740SC/SCJ001[/Serial] Browser/NetFront/3.3",
+    "Mozilla/4.08 (740SC;SoftBank[;Serial]) NetFront/3.3"
+  ],
+  "V802N": [
+    "Vodafone/1.0/V802N/NJ001[/Serial] Browser/UP.Browser/7.0.2.1.258 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0",
+    "Vodafone/1.0/V802N/NJ001[/Serial] Java/ UP.Browser/7.0.2.1.307Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0"
+  ],
+  "V802SE": [
+    "Vodafone/1.0/V802SE/SEJ001[/Serial] Browser/SEMC-Browser/4.1 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "Vodafone/1.0/V802SE/SEJ001[/Serial] Java/SEMC-Java/2.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-V-Profile/VSCL-2.0.0",
+    "SoftBank/1.0/V802SE/SEJ001[/Serial] Flash/VF-Flash/1.1"
+  ],
+  "V802SH": [
+    "Vodafone/1.0/V802SH/SHJ001[/Serial] Browser/UP.Browser/7.0.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0",
+    "Vodafone/1.0/V802SH/SHJ001[/Serial] Java/VF-Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0",
+    "Vodafone/1.0/V802SH/SHJ001[/Serial] Flash/VF-Flash-Lite/1.1"
+  ],
+  "V803T": [
+    "Vodafone/1.0/V803T/TJ001[/Serial] Browser/VF-Browser/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0",
+    "Vodafone/1.0/V803T/TJ001[/Serial] Java/VF-Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0"
+  ],
+  "V804N": [
+    "Vodafone/1.0/V804N/NJ001[/Serial] Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "Vodafone/1.0/V804N/NJ001[/Serial] Java/VF-Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1"
+  ],
+  "V804NK": [
+    "Vodafone/1.0/V804NK/NKJ001[/Serial] Series60/3.0 NokiaN71/X.XXXX Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "Vodafone/1.0/V804NK/NKJ001[/Serial] Java/VF-Java/1.0 Series60/3.0 NokiaN71/X.XX.XX Profile/MIDP-2.0 Configuration/CLDC-1.1"
+  ],
+  "V804SH": [
+    "Vodafone/1.0/V804SH/SHJ001[/Serial] Browser/UP.Browser/7.0.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.3.2 Ext-V-Profile/VSCL-2.0.0",
+    "Vodafone/1.0/V804SH/SHJ001[/Serial] Flash/VF-Flash-Lite/1.1"
+  ],
+  "V804SS": [
+    "Vodafone/1.0/V804SS/SSJ001[/Serial] Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "Vodafone/1.0/V804SS/SSJ001[/Serial] Java/VF-Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1"
+  ],
+  "805SC": [
+    "SoftBank/1.0/805SC/SCJ001[/Serial] Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/805SC/SCJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "Mozilla/4.08 (805SC;SoftBank[;Serial]) NetFront/3.3"
+  ],
+  "810P": [
+    "SoftBank/1.0/810P/PJP10[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/810P/PJP10[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/810P/PJP10[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (810P;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "810SH": [
+    "SoftBank/1.0/810SH/SHJ001[/Serial] Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/810SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/810SH/SHJ001[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (810SH;SoftBank[;Serial]) NetFront/3.3"
+  ],
+  "810T": [
+    "SoftBank/1.0/810T/TJ001[/Serial] Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/810T/TJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/810T/TJ001[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (810T;SoftBank[;Serial]) NetFront/3.3"
+  ],
+  "811SH": [
+    "SoftBank/1.0/811SH/SHJ001[/Serial] Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/811SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/811SH/SHJ001[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (811SH;SoftBank[;Serial]) NetFront/3.3"
+  ],
+  "811T": [
+    "SoftBank/1.0/811T/TJ001[/Serial] Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/811T/TJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/811T/TJ001[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (811T;SoftBank[;Serial]) NetFront/3.3"
+  ],
+  "812SH": [
+    "SoftBank/1.0/812SH/SHJ001[/Serial] Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/812SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/812SH/SHJ001[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (812SH;SoftBank[;Serial]) NetFront/3.3"
+  ],
+  "812SHs": [
+    "SoftBank/1.0/812SHs/SHJ001[/Serial] Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/812SHs/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/812SHs/SHJ001[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (812SHs;SoftBank[;Serial]) NetFront/3.3"
+  ],
+  "812T": [
+    "SoftBank/1.0/812T/TJ001[/Serial] Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/812T/TJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/812T/TJ001[/Serial] Flash/Flash-Lite/2.0"
+  ],
+  "813SH": [
+    "SoftBank/1.0/813SH/SHJ001[/Serial] Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/813SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/813SH/SHJ001[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (813SH;SoftBank[;Serial]) NetFront/3.3"
+  ],
+  "813T": [
+    "SoftBank/1.0/813T/TJ001[/Serial] Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/813T/TJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/813T/TJ001[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (813T;SoftBank[;Serial]) NetFront/3.3"
+  ],
+  "814SH": [
+    "SoftBank/1.0/814SH/SHJ001[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/814SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/814SH/SHJ001[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (814SH;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "814T": [
+    "SoftBank/1.0/814T/TJ001[/Serial] Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/814T/TJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/814T/TJ001[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (814T;SoftBank[;Serial]) NetFront/3.3"
+  ],
+  "815SH": [
+    "SoftBank/1.0/815SH/SHJ001[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/815SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/815SH/SHJ001[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (815SH;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "815T": [
+    "SoftBank/1.0/815T/TJ001[/Serial] Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/815T/TJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/815T/TJ001[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (815T;SoftBank[;Serial]) NetFront/3.3"
+  ],
+  "816SH": [
+    "SoftBank/1.0/816SH/SHJ001[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/816SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/816SH/SHJ001[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (816SH;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "820N": [
+    "SoftBank/1.0/820N/NJ001[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/820N/NJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/820N/NJ001[/Serial] Flash/Flash-Lite/3.0",
+    "Mozilla/4.08 (820N;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "820P": [
+    "SoftBank/1.0/820P/PJP10[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/820P/PJP10[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/820P/PJP10[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (820P;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "820SC": [
+    "SoftBank/1.0/820SC/SCJ001[/Serial] Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/820SC/SCJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/820SC/SCJ001[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (820SC;SoftBank[;Serial]) NetFront/3.3"
+  ],
+  "820SH": [
+    "SoftBank/1.0/820SH/SHJ001[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/820SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/820SH/SHJ001[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (820SH;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "820T": [
+    "SoftBank/1.0/820T/TJ001[/Serial] Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/820T/TJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/820T/TJ001[/Serial] Flash/Flash-Lite/2.0"
+  ],
+  "821N": [
+    "SoftBank/1.0/821N/NJ001[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/821N/NJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/821N/NJ001[/Serial] Flash/Flash-Lite/3.0",
+    "Mozilla/4.08 (821N;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "821P": [
+    "SoftBank/1.0/821P/PJP10[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/821P/PJP10[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/821P/PJP10[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (821P;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "821SC": [
+    "SoftBank/1.0/821SC/SCJ001[/Serial] Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/821SC/SCJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/821SC/SCJ001[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (821SC;SoftBank[;Serial]) NetFront/3.3"
+  ],
+  "821SH": [
+    "SoftBank/1.0/821SH/SHJ001[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/821SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/821SH/SHJ001[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (821SH;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "821T": [
+    "SoftBank/1.0/821T/TJ001[/Serial] Browser/NetFront/3.3",
+    "SoftBank/1.0/821T/TJ001[/Serial] Flash/Flash-Lite/2.0"
+  ],
+  "822P": [
+    "SoftBank/1.0/822P/PJP10[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/822P/PJP10[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/822P/PJP10[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (822P;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "822SH": [
+    "SoftBank/1.0/822SH/SHJ001[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/822SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/822SH/SHJ001[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (822SH;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "822T": [
+    "SoftBank/1.0/822T/TJ001[/Serial] Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/822T/TJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/822T/TJ001[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (822T;SoftBank[;Serial]) NetFront/3.3"
+  ],
+  "823P": [
+    "SoftBank/1.0/823P/PJP10[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/823P/PJP10[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/823P/PJP10[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (823P;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "823SH": [
+    "SoftBank/1.0/823SH/SHJ001[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/823SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/823SH/SHJ001[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (823SH;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "823T": [
+    "SoftBank/1.0/823T/TJ001[/Serial] Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/823T/TJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/823T/TJ001[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (823T;SoftBank[;Serial]) NetFront/3.3"
+  ],
+  "824P": [
+    "SoftBank/1.0/824P/PJP10[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/824P/PJP10[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/824P/PJP10[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (824P;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "824SH": [
+    "SoftBank/1.0/824SH/SHJ001[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/824SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/824SH/SHJ001[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/5.0 (824SH;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "824T": [
+    "SoftBank/1.0/824T/TJ001[/Serial] Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/824T/TJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/824T/TJ001[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (824T;SoftBank[;Serial]) NetFront/3.3"
+  ],
+  "825SH": [
+    "SoftBank/1.0/825SH/SHJ001[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/825SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/825SH/SHJ001[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/5.0 (825SH;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "830CA": [
+    "SoftBank/1.0/830CA/CAJ001[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/830CA/CAJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/830CA/CAJ001[/Serial] Flash/Flash-Lite/3.0",
+    "Mozilla/4.08 (830CA;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "830N": [
+    "SoftBank/1.0/830N/NJ001[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/830N/NJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/830N/NJ001 Widgets/WGTClient/1.0",
+    "SoftBank/1.0/830N/NJ001[/Serial] Flash/Flash-Lite/3.0",
+    "Mozilla/4.08 (830N;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "830P": [
+    "SoftBank/1.0/830P/PJP10[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/830P/PJP10[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/830P/PJP10[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (830P;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "830SC": [
+    "SoftBank/1.0/830SC/SCJ001[/Serial] Browser/NetFront/3.3",
+    "Mozilla/4.08 (830SC;SoftBank[;Serial]) NetFront/3.3"
+  ],
+  "830SH": [
+    "SoftBank/1.0/830SH/SHJ001[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/830SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/830SH/SHJ001[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/5.0 (830SH;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "830SHp": [
+    "SoftBank/1.0/830SHp/SHJ001[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/830SHp/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/830SHp/SHJ001[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/5.0 (830SHp;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "830SHs": [
+    "SoftBank/1.0/830SHs/SHJ001[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/830SHs/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/830SHs/SHJ001[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/5.0 (830SHs;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "830T": [
+    "SoftBank/1.0/830T/TJ001[/Serial] Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/830T/TJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/830T/TJ001[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (830T;SoftBank[;Serial]) NetFront/3.3"
+  ],
+  "831N": [
+    "SoftBank/1.0/831N/NJ001[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/831N/NJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/831N/NJ001[/Serial] Flash/Flash-Lite/3.0",
+    "Mozilla/4.08 (831N;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "831P": [
+    "SoftBank/1.0/831P/PJP10[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/831P/PJP10[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/831P/PJP10[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (831P;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "831SH": [
+    "SoftBank/1.0/831SH/SHJ001[/Serial] Browser/NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/831SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/831SH/SHJ001 Widgets/Widgets/1.0",
+    "SoftBank/1.0/831SH/SHJ001[/Serial] Flash/Flash-Lite/3.0",
+    "Mozilla/5.0 (831SH;SoftBank[;Serial]) NetFront/3.5"
+  ],
+  "831SHs": [
+    "SoftBank/1.0/831SHs/SHJ001[/Serial] Browser/NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/831SHs/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/831SHs/SHJ001 Widgets/Widgets/1.0",
+    "SoftBank/1.0/831SHs/SHJ001[/Serial] Flash/Flash-Lite/3.0",
+    "Mozilla/5.0 (831SHs;SoftBank[;Serial]) NetFront/3.5"
+  ],
+  "831T": [
+    "SoftBank/1.0/831T/TJ001[/Serial] Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/831T/TJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/831T/TJ001[/Serial] Flash/Flash-Lite/2.0"
+  ],
+  "832P": [
+    "SoftBank/1.0/832P/PJP10[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/832P/PJP10[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/832P/PJP10[/Serial] Flash/Flash-Lite/3.0",
+    "Mozilla/4.08 (832P;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "832SH": [
+    "SoftBank/1.0/832SH/SHJ001[/Serial] Browser/NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/832SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/832SH/SHJ001 Widgets/Widgets/1.0",
+    "SoftBank/1.0/832SH/SHJ001[/Serial] Flash/Flash-Lite/3.0",
+    "Mozilla/5.0 (832SH;SoftBank[;Serial]) NetFront/3.5"
+  ],
+  "832SHs": [
+    "SoftBank/1.0/832SHs/SHJ001[/Serial] Browser/NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/832SHs/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/832SHs/SHJ001 Widgets/Widgets/1.0",
+    "SoftBank/1.0/832SHs/SHJ001[/Serial] Flash/Flash-Lite/3.0",
+    "Mozilla/5.0 (832SHs;SoftBank[;Serial]) NetFront/3.5"
+  ],
+  "832T": [
+    "SoftBank/1.0/832T/TJ001[/Serial] Browser/NetFront/3.3",
+    "SoftBank/1.0/832T/TJ001[/Serial] Flash/Flash-Lite/2.0"
+  ],
+  "840N": [
+    "SoftBank/1.0/840N/NJ001[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/840N/NJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/840N/NJ001[/Serial] Flash/Flash-Lite/3.0",
+    "Mozilla/4.08 (840N;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "840P": [
+    "SoftBank/1.0/840P/PJP10[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/840P/PJP10[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/840P/PJP10[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (840P;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "840Pe": [
+    "SoftBank/1.0/840Pe/PJP10[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/840Pe/PJP10[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/840Pe/PJP10[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (840Pe;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "840Pp": [
+    "SoftBank/1.0/840Pp/PJP10[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/840Pp/PJP10[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/840Pp/PJP10[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (840Pp;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "840SC": [
+    "SoftBank/1.0/840SC/SCJ001[/Serial] Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/840SC/SCJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/840SC/SCJ001[/Serial] Flash/Flash-Lite/3.1",
+    "Mozilla/4.08 (840SC;SoftBank[;Serial]) NetFront/3.3"
+  ],
+  "840SH": [
+    "SoftBank/1.0/840SH/SHJ001[/Serial] Browser/NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/840SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/840SH/SHJ001[/Serial] Flash/Flash-Lite/3.0",
+    "Mozilla/5.0 (840SH;SoftBank[;Serial]) NetFront/3.5"
+  ],
+  "840Z": [
+    "SoftBank/1.0/840Z/ZJ001[/Serial] Browser/NetFront/3.3",
+    "SoftBank/1.0/840Z/ZJ001[/Serial] Flash/Flash-Lite/2.0"
+  ],
+  "841N": [
+    "SoftBank/1.0/841N/NJ001[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/841N/NJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/841N/NJ001 Widgets/WGTClient/1.0",
+    "SoftBank/1.0/841N/NJ001[/Serial] Flash/Flash-Lite/3.0",
+    "Mozilla/4.08 (841N;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "841P": [
+    "SoftBank/1.0/841P/PJP10[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/841P/PJP10[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/841P/PJP10[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (841P;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "841SH": [
+    "SoftBank/1.0/841SH/SHJ001[/Serial] Browser/NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/841SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/841SH/SHJ001 Widgets/Widgets/1.0",
+    "SoftBank/1.0/841SH/SHJ001[/Serial] Flash/Flash-Lite/3.1",
+    "Mozilla/5.0 (841SH;SoftBank[;Serial]) NetFront/3.5"
+  ],
+  "841SHs": [
+    "SoftBank/1.0/841SHs/SHJ001[/Serial] Browser/NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/841SHs/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/841SHs/SHJ001 Widgets/Widgets/1.0",
+    "SoftBank/1.0/841SHs/SHJ001[/Serial] Flash/Flash-Lite/3.1",
+    "Mozilla/5.0 (841SHs;SoftBank[;Serial]) NetFront/3.5"
+  ],
+  "842P": [
+    "SoftBank/1.0/842P/PJP10[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/842P/PJP10[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/842P/PJP10 Widgets/Widgets/1.0",
+    "SoftBank/1.0/842P/PJP10[/Serial] Flash/Flash-Lite/3.0",
+    "Mozilla/4.08 (842P;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "842SH": [
+    "SoftBank/1.0/842SH/SHJ001[/Serial] Browser/NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/842SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/842SH/SHJ001 Widgets/Widgets/1.0",
+    "SoftBank/1.0/842SH/SHJ001[/Serial] Flash/Flash-Lite/3.1",
+    "Mozilla/5.0 (842SH;SoftBank[;Serial]) NetFront/3.5"
+  ],
+  "843SH": [
+    "SoftBank/1.0/843SH/SHJ001[/Serial] Browser/NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/843SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/843SH/SHJ001[/Serial] Flash/Flash-Lite/3.1"
+  ],
+  "V902SH": [
+    "Vodafone/1.0/V902SH/SHJ001[/Serial] Browser/UP.Browser/7.0.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0",
+    "Vodafone/1.0/V902SH/SHJ001[/Serial] Java/VF-Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0",
+    "Vodafone/1.0/V902SH/SHJ001[/Serial] Flash/VF-Flash-Lite/1.1"
+  ],
+  "V902T": [
+    "Vodafone/1.0/V902T/TJ001[/Serial] Browser/VF-Browser/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0",
+    "Vodafone/1.0/V902T/TJ001[/Serial] Java/VF-Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0"
+  ],
+  "V903SH": [
+    "Vodafone/1.0/V903SH/SHJ001[/Serial] Browser/UP.Browser/7.0.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0",
+    "Vodafone/1.0/V903SH/SHJ001[/Serial] Java/VF-Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0",
+    "Vodafone/1.0/V903SH/SHJ001[/Serial] Flash/VF-Flash-Lite/1.1"
+  ],
+  "V903T": [
+    "Vodafone/1.0/V903T/TJ001[/Serial] Browser/VF-Browser/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0",
+    "Vodafone/1.0/V903T/TJ001[/Serial]Java/VF-Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.3 Ext-V-Profile/VSCL-2.1.0"
+  ],
+  "V904SH": [
+    "Vodafone/1.0/V904SH/SHJ001[/Serial] Browser/VF-NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "Vodafone/1.0/V904SH/SHJ001[/Serial] Java/VF-Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "Vodafone/1.0/V904SH/SHJ001[/Serial] Flash/VF-Flash-Lite/1.1"
+  ],
+  "V904T": [
+    "Vodafone/1.0/V904T/TJ001[/Serial] Browser/VF-Browser/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0",
+    "Vodafone/1.0/V904T/TJ001[/Serial] Java/VF-Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0"
+  ],
+  "V905SH": [
+    "Vodafone/1.0/V905SH/SHJ001[/Serial] Browser/VF-NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "Vodafone/1.0/V905SH/SHJ001[/Serial] Java/VF-Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "Vodafone/1.0/V905SH/SHJ001[/Serial] Flash/VF-Flash-Lite/1.1"
+  ],
+  "910SH": [
+    "SoftBank/1.0/910SH/SHJ001[/Serial] Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/910SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/910SH/SHJ001[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (910SH;SoftBank[;Serial]) NetFront/3.3"
+  ],
+  "910T": [
+    "SoftBank/1.0/910T/TJ001[/Serial] Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/910T/TJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/910T/TJ001[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (910T;SoftBank[;Serial]) NetFront/3.3"
+  ],
+  "911SH": [
+    "SoftBank/1.0/911SH/SHJ001[/Serial] Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/911SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/911SH/SHJ001[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (911SH;SoftBank[;Serial]) NetFront/3.3"
+  ],
+  "911T": [
+    "SoftBank/1.0/911T/TJ001[/Serial] Browser/NetFront/3.3 Profile/MIDP-2.0 Configutation/CLDC-1.1",
+    "SoftBank/1.0/911T/TJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/911T/TJ001[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (911T;SoftBank[;Serial]) NetFront/3.3"
+  ],
+  "912SH": [
+    "SoftBank/1.0/912SH/SHJ001[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/912SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/912SH/SHJ001[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (912SH;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "912T": [
+    "SoftBank/1.0/912T/TJ001[/Serial] Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/912T/TJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/912T/TJ001[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (912T;SoftBank[;Serial]) NetFront/3.3"
+  ],
+  "913SH": [
+    "SoftBank/1.0/913SH/SHJ001[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/913SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/913SH/SHJ001[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (913SH;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "920P": [
+    "SoftBank/1.0/920P/PJP10[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/920P/PJP10[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/920P/PJP10[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (920P;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "920SC": [
+    "SoftBank/1.0/920SC/SCJ001[/Serial] Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/920SC/SCJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/920SC/SCJ001[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (920SC;SoftBank[;Serial]) NetFront/3.3"
+  ],
+  "920SH": [
+    "SoftBank/1.0/920SH/SHJ001[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/920SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/920SH/SHJ001[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (920SH;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "920T": [
+    "SoftBank/1.0/920T/TJ001[/Serial] Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/920T/TJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/920T/TJ001[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (920T;SoftBank[;Serial]) NetFront/3.3"
+  ],
+  "921P": [
+    "SoftBank/1.0/921P/PJP10[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/921P/PJP10[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/921P/PJP10[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (921P;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "921SH": [
+    "SoftBank/1.0/921SH/SHJ001[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/921SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/921SH/SHJ001[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (921SH;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "921T": [
+    "SoftBank/1.0/921T/TJ001[/Serial] Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/921T/TJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/921T/TJ001[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (921T;SoftBank[;Serial]) NetFront/3.3"
+  ],
+  "922SH": [
+    "SoftBank/1.0/922SH/SHJ001[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/922SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/922SH/SHJ001[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (922SH;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "923SH": [
+    "SoftBank/1.0/923SH/SHJ001[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/923SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/923SH/SHJ001[/Serial] Flash/Flash-Lite/3.0",
+    "Mozilla/5.0 (923SH;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "930CA": [
+    "SoftBank/1.0/930CA/CAJ001[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/930CA/CAJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/930CA/CAJ001[/Serial] Flash/Flash-Lite/3.0",
+    "Mozilla/4.08 (930CA;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "930N": [
+    "SoftBank/1.0/930N/NJ001[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/930N/NJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/930N/NJ001 Widgets/WGTClient/1.0",
+    "SoftBank/1.0/930N/NJ001[/Serial] Flash/Flash-Lite/3.0",
+    "Mozilla/4.08 (930N;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "930P": [
+    "SoftBank/1.0/930P/PJP10[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/930P/PJP10[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/930P/PJP10[/Serial] Flash/Flash-Lite/3.0",
+    "Mozilla/4.08 (930P;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "930SC": [
+    "SoftBank/1.0/930SC/SCJ001[/Serial] Browser/NetFront/3.4",
+    "SoftBank/1.0/930SC/SCJ001[/Serial] Flash/Flash-Lite/3.1",
+    "Mozilla/4.08 (930SC;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "930SH": [
+    "SoftBank/1.0/930SH/SHJ001[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/930SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/930SH/SHJ001[/Serial] Flash/Flash-Lite/3.0",
+    "Mozilla/5.0 (930SH;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "931N": [
+    "SoftBank/1.0/931N/NJ001[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/931N/NJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/931N/NJ001 Widgets/WGTClient/1.0",
+    "SoftBank/1.0/931N/NJ001[/Serial] Flash/Flash-Lite/3.0",
+    "Mozilla/4.08 (931N;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "931P": [
+    "SoftBank/1.0/931P/PJP10[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/931P/PJP10[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/931P/PJP10 Widgets/Widgets/1.0",
+    "SoftBank/1.0/931P/PJP10[/Serial] Flash/Flash-Lite/3.0",
+    "Mozilla/4.08 (931P;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "931SC": [
+    "SoftBank/1.0/931SC/SCJ001[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/931SC/SCJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/931SC/SCJ001[/Serial] Flash/Flash-Lite/3.1",
+    "Mozilla/4.08 (931SC;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "931SH": [
+    "SoftBank/1.0/931SH/SHJ001[/Serial] Browser/NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/931SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/931SH/SHJ001 Widgets/Widgets/1.0",
+    "SoftBank/1.0/931SH/SHJ001[/Serial] Flash/Flash-Lite/3.0",
+    "Mozilla/5.0 (931SH;SoftBank[;Serial]) NetFront/3.5"
+  ],
+  "932SH": [
+    "SoftBank/1.0/932SH/SHJ001[/Serial] Browser/NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/932SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/932SH/SHJ001 Widgets/Widgets/1.0",
+    "SoftBank/1.0/932SH/SHJ001[/Serial] Flash/Flash-Lite/3.0",
+    "Mozilla/5.0 (932SH;SoftBank[;Serial]) NetFront/3.5"
+  ],
+  "933SH": [
+    "SoftBank/1.0/933SH/SHJ001[/Serial] Browser/NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/933SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/933SH/SHJ001 Widgets/Widgets/1.0",
+    "SoftBank/1.0/933SH/SHJ001[/Serial] Flash/Flash-Lite/3.0",
+    "Mozilla/5.0 (933SH;SoftBank[;Serial]) NetFront/3.5"
+  ],
+  "934SH": [
+    "SoftBank/1.0/934SH/SHJ001[/Serial] Browser/NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/934SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/934SH/SHJ001 Widgets/Widgets/1.0",
+    "SoftBank/1.0/934SH/SHJ001[/Serial] Flash/Flash-Lite/3.0",
+    "Mozilla/5.0 (934SH;SoftBank[;Serial]) NetFront/3.5"
+  ],
+  "935SH": [
+    "SoftBank/1.0/935SH/SHJ001[/Serial] Browser/NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/935SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/935SH/SHJ001 Widgets/Widgets/1.0",
+    "SoftBank/1.0/935SH/SHJ001[/Serial] Flash/Flash-Lite/3.0",
+    "Mozilla/5.0 (935SH;SoftBank[;Serial]) NetFront/3.5"
+  ],
+  "936SH": [
+    "SoftBank/1.0/936SH/SHJ001[/Serial] Browser/NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/936SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/936SH/SHJ001 Widgets/Widgets/1.0",
+    "SoftBank/1.0/936SH/SHJ001[/Serial] Flash/Flash-Lite/3.0",
+    "Mozilla/5.0 (936SH;SoftBank[;Serial]) NetFront/3.5"
+  ],
+  "940N": [
+    "SoftBank/1.0/940N/NJ001[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/940N/NJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/940N/NJ001 Widgets/WGTClient/1.0",
+    "SoftBank/1.0/940N/NJ001[/Serial] Flash/Flash-Lite/3.0",
+    "Mozilla/4.08 (940N;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "940P": [
+    "SoftBank/1.0/940P/PJP10[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/940P/PJP10[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/940P/PJP10 Widgets/Widgets/1.0",
+    "SoftBank/1.0/940P/PJP10[/Serial] Flash/Flash-Lite/3.0",
+    "Mozilla/4.08 (940P;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "940SC": [
+    "SoftBank/1.0/940SC/SCJ001[/Serial] Browser/NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/940SC/SCJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/940SC/SCJ001 Widgets/NetFront/1.0",
+    "SoftBank/1.0/940SC/SCJ001[/Serial] Flash/Flash-Lite/3.1",
+    "Mozilla/5.0 (940SC;SoftBank[;Serial]) NetFront/3.5"
+  ],
+  "940SH": [
+    "SoftBank/1.0/940SH/SHJ001[/Serial] Browser/NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/940SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/940SH/SHJ001 Widgets/Widgets/1.0",
+    "SoftBank/1.0/940SH/SHJ001[/Serial] Flash/Flash-Lite/3.1",
+    "Mozilla/5.0 (940SH;SoftBank[;Serial]) NetFront/3.5"
+  ],
+  "941P": [
+    "SoftBank/1.0/941P/PJP10[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/941P/PJP10[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/941P/PJP10 Widgets/Widgets/1.0",
+    "SoftBank/1.0/941P/PJP10[/Serial] Flash/Flash-Lite/3.0",
+    "Mozilla/4.08 (941P;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "941SC": [
+    "SoftBank/1.0/941SC/SCJ001[/Serial] Browser/NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/941SC/SCJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/941SC/SCJ001 Widgets/NetFront/1.0",
+    "SoftBank/1.0/941SC/SCJ001[/Serial] Flash/Flash-Lite/3.1",
+    "Mozilla/5.0 (941SC;SoftBank[;Serial]) NetFront/3.5"
+  ],
+  "941SH": [
+    "SoftBank/1.0/941SH/SHJ001[/Serial] Browser/NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/941SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/941SH/SHJ001 Widgets/Widgets/1.0",
+    "SoftBank/1.0/941SH/SHJ001[/Serial] Flash/Flash-Lite/3.1",
+    "Mozilla/5.0 (941SH;SoftBank[;Serial]) NetFront/3.5"
+  ],
+  "942P": [
+    "SoftBank/1.0/942P/PJP10[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/942P/PJP10[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/942P/PJP10 Widgets/Widgets/2.0",
+    "SoftBank/1.0/942P/PJP10[/Serial] Flash/Flash-Lite/3.1",
+    "Mozilla/5.0 (942P;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "942SH": [
+    "SoftBank/1.0/942SH/SHJ001[/Serial] Browser/NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/942SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/942SH/SHJ001 Widgets/Widgets/1.0",
+    "SoftBank/1.0/942SH/SHJ001[/Serial] Flash/Flash-Lite/3.1",
+    "Mozilla/5.0 (942SH;SoftBank[;Serial]) NetFront/3.5"
+  ],
+  "943SH": [
+    "SoftBank/1.0/943SH/SHJ001[/Serial] Browser/NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/943SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/943SH/SHJ001 Widgets/Widgets/2.0",
+    "SoftBank/1.0/943SH/SHJ001[/Serial] Flash/Flash-Lite/3.1",
+    "Mozilla/5.0 (943SH;SoftBank[;Serial]) NetFront/3.5"
+  ],
+  "944SH": [
+    "SoftBank/2.0/944SH/SHJ001[/Serial] Browser/NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/2.0/944SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/2.0/944SH/SHJ001 Widgets/Widgets/2.0",
+    "SoftBank/2.0/944SH/SHJ001[/Serial] Flash/Flash-Lite/3.1",
+    "Mozilla/5.0 (944SH;SoftBank[;Serial]) NetFront/3.5"
+  ],
+  "945SH": [
+    "SoftBank/2.0/945SH/SHJ001[/Serial] Browser/NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/2.0/945SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/2.0/945SH/SHJ001 Widgets/Widgets/2.0",
+    "SoftBank/2.0/945SH/SHJ001[/Serial] Flash/Flash-Lite/3.1",
+    "Mozilla/5.0 (945SH;SoftBank[;Serial]) NetFront/3.5"
+  ],
+  "DM001SH": [
+    "SoftBank/1.0/DM001SH/SHJ001[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/DM001SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/DM001SH/SHJ001[/Serial] Flash/Flash-Lite/2.0"
+  ],
+  "DM002SH": [
+    "SoftBank/1.0/DM002SH/SHJ001[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/DM002SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/DM002SH/SHJ001[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/4.08 (DM002SH;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "DM003SH": [
+    "SoftBank/1.0/DM003SH/SHJ001[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/DM003SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/DM003SH/SHJ001[/Serial] Flash/Flash-Lite/2.0",
+    "Mozilla/5.0 (DM003SH;SoftBank[;Serial]) NetFront/3.4"
+  ],
+  "DM004SH": [
+    "SoftBank/1.0/DM004SH/SHJ001[/Serial] Browser/NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/DM004SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/DM004SH/SHJ001 Widgets/Widgets/1.0",
+    "SoftBank/1.0/DM004SH/SHJ001[/Serial] Flash/Flash-Lite/3.0",
+    "Mozilla/5.0 (DM004SH;SoftBank[;Serial]) NetFront/3.5"
+  ],
+  "DM005SH": [
+    "SoftBank/1.0/DM005SH/SHJ001[/Serial] Browser/NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/DM005SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/DM005SH/SHJ001 Widgets/Widgets/1.0",
+    "SoftBank/1.0/DM005SH/SHJ001[/Serial] Flash/Flash-Lite/3.1",
+    "Mozilla/5.0 (DM005SH;SoftBank[;Serial]) NetFront/3.5"
+  ],
+  "DM006SH": [
+    "SoftBank/1.0/DM006SH/SHJ001[/Serial] Browser/NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/DM006SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/DM006SH/SHJ001 Widgets/Widgets/1.0",
+    "SoftBank/1.0/DM006SH/SHJ001[/Serial] Flash/Flash-Lite/3.0",
+    "Mozilla/5.0 (DM006SH;SoftBank[;Serial]) NetFront/3.5"
+  ],
+  "DM007SH": [
+    "SoftBank/1.0/DM007SH/SHJ001[/Serial] Browser/NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/DM007SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/1.0/DM007SH/SHJ001 Widgets/Widgets/1.0",
+    "SoftBank/1.0/DM007SH/SHJ001[/Serial] Flash/Flash-Lite/3.1",
+    "Mozilla/5.0 (DM007SH;SoftBank[;Serial]) NetFront/3.5"
+  ],
+  "DM008SH": [
+    "SoftBank/2.0/DM008SH/SHJ001[/Serial] Browser/NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/2.0/DM008SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "SoftBank/2.0/DM008SH/SHJ001 Widgets/Widgets/1.0",
+    "SoftBank/2.0/DM008SH/SHJ001[/Serial] Flash/Flash-Lite/3.1",
+    "Mozilla/5.0 (DM008SH;SoftBank[;Serial]) NetFront/3.5"
+  ]
+}

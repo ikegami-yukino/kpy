@@ -1,0 +1,217 @@
+{
+  "AH-J3001V": [
+    "Mozilla/3.0(DDIPOCKET;JRC/AH-J3001V/端末Ver/ブラウザVer/c50)CNF/2.0"
+  ],
+  "AH-J3002V": [
+    "Mozilla/3.0(DDIPOCKET;JRC/AH-J3002V/端末Ver/ブラウザVer/c50)CNF/2.0"
+  ],
+  "AH-J3003S": [
+    "Mozilla/3.0(DDIPOCKET;JRC/AH-J3003S/端末Ver/ブラウザVer/c50)CNF/2.0"
+  ],
+  "AH-K3001V": [
+    "Mozilla/3.0(DDIPOCKET;KYOCERA/AH-K3001V/端末Ver/ブラウザVer/C100) Opera 7.0",
+    "Mozilla/4.0 (compatible; MSIE 6.0; KYOCERA/AH-K3001V/1.1.19.65.000000/0.1) Opera 7.0 [ja]"
+  ],
+  "AH-K3002V": [
+    "Mozilla/3.0(DDIPOCKET;KYOCERA/AH-K3002V/端末Ver/ブラウザVer/C100) Opera/7.0",
+    "Mozilla/4.0 (compatible;MSIE 6.0; KYOCERA/AH-K3002V/端末Ver/ブラウザVer) Opera 7.0 [ja]"
+  ],
+  "WX331K": [
+    "Mozilla/3.0(WILLCOM;KYOCERA/WX331K/2;端末Ver/ブラウザVer/C100) Opera 7.2 EX"
+  ],
+  "WS003SH": [
+    "Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; SHARP/WS003SH; PPC; 480x640)",
+    "Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; SHARP WS003SH; PPC; 480x640) Opera 8.50 [ja]",
+    "Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; SHARP/WS003SH; PPC; 480x640) Opera 8.50 [ja]",
+    "Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; SHARP/WS003SH; PPC; 480x640) Opera 8.60 [ja]"
+  ],
+  "WS004SH": [
+    "Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; SHARP/WS004SH; PPC;480x640)"
+  ],
+  "WS007SH": [
+    "Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; SHARP/WS007SH; PPC;480x640)",
+    "Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; SHARP/WS007SH; PPC; 480x640) Opera 8.60 [ja]"
+  ],
+  "WS009KEWplus": [
+    "Mozilla/3.0(WILLCOM;ASUMO/WS009KEWplus/2;端末Ver/ブラウザVer/C128) NetFront/3.4",
+    "JV-Lite2WE/3.3(WS009KEWplus) Profiles/MIDP-2.0 Configuration/CLDC-1.1",
+    "Mozilla/3.0(WILLCOM;ASUMO/WS009KEWplus/2;端末Ver/ブラウザVer/C128/NFBWidgets/1.0) NetFront/3.4"
+  ],
+  "WS009KEplus": [
+    "Mozilla/3.0(WILLCOM;KES/WS009KEplus/2;端末Ver/ブラウザVer/C128) NetFront/3.3"
+  ],
+  "WS009KE": [
+    "Mozilla/3.0(WILLCOM;KES/WS009KE/2;端末Ver/ブラウザVer/C128) NetFront/3.3"
+  ],
+  "WS009KEBA": [
+    "Mozilla/3.0(WILLCOM;KES/WS009KEBA/2;端末Ver/ブラウザVer/C128) NetFront/3.3"
+  ],
+  "WS011SH": [
+    "Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; IEMobile 6.12) WS011SH",
+    "Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; SHARP/WS011SH; PPC; 480x800) Opera 8.7",
+    "JBlend WM 2.2 OTA Installer (SHARP/W-ZERO3; WS011SH)"
+  ],
+  "WS018KE": [
+    "Mozilla/3.0(WILLCOM;KES/WS018KE/2;0001;端末Ver/ブラウザVer/C128) NetFront/3.4",
+    "JV-Lite2WE/3.3(WS018KE) Profiles/MIDP-2.0 Configuration/CLDC-1.1",
+    "Mozilla/3.0(WILLCOM;KES/WS018KE/2;端末Ver/ブラウザVer/C128/NFBWidgets/1.0) NetFront/3.4"
+  ],
+  "WS020SH": [
+    "Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; IEMobile 7.11) WS020SH",
+    "Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; SHARP/WS020SH; PPC; 480x800) Opera Mobi; Opera 9.5 [ja]",
+    "JBlend WM 2.2 OTA Installer (SHARP/WILLCOM 03; WS020SH)"
+  ],
+  "WS023T": [
+    "Mozilla/3.0(WILLCOM;TOSHIBA/WS023T/2;端末Ver/ブラウザVer/C128) NetFront/3.4",
+    "JV-Lite2WE/3.3(WS023T) Profiles/MIDP-2.0 Configuration/CLDC-1.1",
+    "Mozilla/3.0(WILLCOM;TOSHIBA/WS023T/2;端末Ver/ブラウザVer/C128/NFBWidgets/1.0) NetFront/3.4"
+  ],
+  "WS027SH": [
+    "Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; IEMobile 8.12;MSIEMobile 6.0) WS027SH",
+    "JBlend WM 2.2 OTA Installer (SHARP/W-ZERO3; WS027SH)"
+  ],
+  "WX01K": [
+    "Mozilla/3.0(WILLCOM;KYOCERA/WX01K/2;端末Ver/ブラウザVer/C256) NetFront/3.4",
+    "Mozilla/5.0 (MobilePhone; NMCS/3.4 like Gecko/20060901;KYOCERA/WX01K/2;端末Ver/ブラウザVer) NetFront/3.4 NetFront 3.4",
+    "JV-Lite2WE/3.3(WILLCOM/WX01K) Profiles/MIDP-2.0 Configuration/CLDC-1.1",
+    "Mozilla/3.0(WILLCOM;KYOCERA/WX01K/2;端末Ver/ブラウザVer/C256/NFBWidgets/1.0) NetFront/3.4"
+  ],
+  "WX01SH": [
+    "Mozilla/3.0(WILLCOM;SHARP/WX01SH/2;端末Ver/ブラウザVer/C256)NetFront/3.4",
+    "Mozilla/5.0 (MobilePhone; NMCS/3.4; like Gecko/20060901;SHARP/WX01SH/2;端末Ver/ブラウザVer) NetFront/3.4 NetFront 3.4",
+    "JV-Lite2WE/3.3(WILLCOM/WX01SH) Profiles/MIDP-2.0 Configuration/CLDC-1.1"
+  ],
+  "WX02K": [
+    "Mozilla/3.0(WILLCOM;KYOCERA/WX02K/2;端末Ver/ブラウザVer/C256) NetFront/3.4",
+    "Mozilla/5.0 (MobilePhone; NMCS/3.4 like Gecko/20060901;KYOCERA/WX02K/2;端末Ver/ブラウザVer) NetFront/3.4 NetFront 3.4",
+    "JV-Lite2WE/3.3(WILLCOM/WX02K) Profiles/MIDP-2.0 Configuration/CLDC-1.1",
+    "Mozilla/3.0(WILLCOM;KYOCERA/WX02K/2;端末Ver/ブラウザVer/C256/NFBWidgets/1.0) NetFront/3.4"
+  ],
+  "WX02SH": [
+    "Mozilla/3.0(WILLCOM;SHARP/WX02SH/2;端末Ver/ブラウザVer/C256)NetFront/3.4",
+    "Mozilla/5.0 (MobilePhone; NMCS/3.4; like Gecko/20060901;SHARP/WX02SH/2;端末Ver/ブラウザVer) NetFront/3.4 NetFront 3.4",
+    "JV-Lite2WE/3.3(WILLCOM/WX02SH) Profiles/MIDP-2.0 Configuration/CLDC-1.1"
+  ],
+  "WX03K": [
+    "Mozilla/3.0(WILLCOM;KYOCERA/WX03K/2;端末Ver/ブラウザVer/C256) NetFront/3.4",
+    "Mozilla/5.0 (MobilePhone; NMCS/3.4 like Gecko/20060901;KYOCERA/WX03K/2;端末Ver/ブラウザVer) NetFront/3.4 NetFront 3.4",
+    "JV-Lite2WE/3.3(WILLCOM/WX03K) Profiles/MIDP-2.0 Configuration/CLDC-1.1",
+    "Mozilla/3.0(WILLCOM;KYOCERA/WX03K/2;端末Ver/ブラウザVer/C256/NFBWidgets/1.0) NetFront/3.4"
+  ],
+  "WX03SH": [
+    "Mozilla/3.0(WILLCOM;SHARP/WX03SH/2;端末Ver/ブラウザVer/C256)NetFront/3.4",
+    "Mozilla/5.0 (MobilePhone; NMCS/3.4; like Gecko/20060901;SHARP/WX03SH/2;端末Ver/ブラウザVer) NetFront/3.4 NetFront 3.4",
+    "JV-Lite2WE/3.3(WILLCOM/WX03SH) Profiles/MIDP-2.0 Configuration/CLDC-1.1"
+  ],
+  "WX05K": [
+    "Mozilla/3.0(WILLCOM;KYOCERA/WX05K/2;端末Ver/ブラウザVer/C256) NetFront/3.4",
+    "Mozilla/5.0 (MobilePhone; NMCS/3.4 like Gecko/20060901;KYOCERA/WX05K/2;端末Ver/ブラウザVer) NetFront/3.4 NetFront 3.4",
+    "JV-Lite2WE/3.3(WILLCOM/WX05K) Profiles/MIDP-2.0 Configuration/CLDC-1.1"
+  ],
+  "WX07K": [
+    "Mozilla/3.0(WILLCOM;KYOCERA/WX07K/2;端末Ver/ブラウザVer/C256) NetFront/3.4",
+    "Mozilla/5.0 (MobilePhone; NMCS/3.4 like Gecko/20060901;KYOCERA/WX07K/2;端末Ver/ブラウザVer) NetFront/3.4 NetFront 3.4",
+    "JV-Lite2WE/3.3(WILLCOM/WX07K) Profiles/MIDP-2.0 Configuration/CLDC-1.1",
+    "Mozilla/3.0(WILLCOM;KYOCERA/WX07K/2;端末Ver/ブラウザVer/C256/NFBWidgets/1.0) NetFront/3.4"
+  ],
+  "WX09K": [
+    "Mozilla/3.0(WILLCOM;KYOCERA/WX09K/2;端末Ver/ブラウザVer/C256) NetFront/3.4",
+    "Mozilla/5.0 (MobilePhone; NMCS/3.4 like Gecko/20060901;KYOCERA/WX09K/2;端末Ver/ブラウザVer) NetFront/3.4 NetFront 3.4",
+    "JV-Lite2WE/3.3(WILLCOM/WX09K) Profiles/MIDP-2.0 Configuration/CLDC-1.1",
+    "Mozilla/3.0(WILLCOM;KYOCERA/WX09K/2;端末Ver/ブラウザVer/C256/NFBWidgets/1.0) NetFront/3.4"
+  ],
+  "WX11K": [
+    "Mozilla/3.0(WILLCOM;KYOCERA/WX11K/2;端末Ver/ブラウザVer/C256) NetFront/3.4",
+    "Mozilla/5.0 (MobilePhone; NMCS/3.4 like Gecko/20060901;KYOCERA/WX11K/2;端末Ver/ブラウザVer) NetFront/3.4 NetFront 3.4",
+    "JV-Lite2WE/3.3(WILLCOM/WX11K) Profiles/MIDP-2.0 Configuration/CLDC-1.1",
+    "Mozilla/3.0(WILLCOM;KYOCERA/WX11K/2;端末Ver/ブラウザVer/C256/NFBWidgets/1.0) NetFront/3.4"
+  ],
+  "WX12K": [
+    "Mozilla/3.0(WILLCOM;KYOCERA/WX12K/2;端末Ver/ブラウザVer/C256) NetFront/3.4",
+    "Mozilla/5.0 (MobilePhone; NMCS/3.4 like Gecko/20060901;KYOCERA/WX12K/2;端末Ver/ブラウザVer) NetFront/3.4 NetFront 3.4",
+    "JV-Lite2WE/3.3(WILLCOM/WX12K) Profiles/MIDP-2.0 Configuration/CLDC-1.1",
+    "Mozilla/3.0(WILLCOM;KYOCERA/WX12K/2;端末Ver/ブラウザVer/C256/NFBWidgets/1.0) NetFront/3.4"
+  ],
+  "WX220J": [
+    "Mozilla/3.0(WILLCOM;JRC/WX220J/2;端末Ver/ブラウザVer/C50) CNF/2.0"
+  ],
+  "WX300K": [
+    "Mozilla/3.0(WILLCOM;KYOCERA/WX300K/端末Ver/ブラウザVer/C100) Opera/7.0",
+    "Mozilla/4.0 (compatible; MSIE 6.0; KYOCERA/WX300K/2;2.0.10.11.000000/0.1) Opera 7.0 [ja]"
+  ],
+  "WX310J": [
+    "Mozilla/3.0(WILLCOM;JRC/WX310J/2;端末Ver/ブラウザVer/C128) NetFront/3.3",
+    "JV-Lite2WE/3.3(WX310J) Profiles/MIDP-2.0 Configuration/CLDC-1.1"
+  ],
+  "WX310K": [
+    "Mozilla/3.0(WILLCOM;KYOCERA/WX310K/2;端末Ver/ブラウザVer/C100) Opera/7.0",
+    "Mozilla/4.0 (compatible; MSIE 6.0; KYOCERA/WX310K/2;1.2.7.17.000000/0.1) Opera 7.0 [ja]"
+  ],
+  "WX310SA": [
+    "Mozilla/3.0(WILLCOM;SANYO/WX310SA/2;端末Ver/ブラウザVer/C128) NetFront/3.3",
+    "JV-Lite2WE/3.3(WX310SA) Profiles/MIDP-2.0 Configuration/CLDC-1.1"
+  ],
+  "WX320K": [
+    "Mozilla/3.0(WILLCOM;KYOCERA/WX320K/2;端末Ver/ブラウザVer/C100) Opera 7.0",
+    "Mozilla/3.0(WILLCOM;KYOCERA/WX320K/2;端末Ver/ブラウザVer/C100) Opera 7.2 EX",
+    "Mozilla/4.0 (compatible; MSIE 6.0; KYOCERA/WX320K/2;1.0.8.14.000000/0.1) Opera 7.0 [ja]",
+    "JV-Lite2WE/3.3(WX320K) Profiles/MIDP-2.0 Configuration/CLDC-1.1"
+  ],
+  "WX320KR": [
+    "Mozilla/3.0(WILLCOM;KYOCERA/WX320KR/2;端末Ver/ブラウザVer/C100) Opera 7.2 EX",
+    "Mozilla/4.0 (compatible; MSIE 6.0; KYOCERA/WX320KR/2;1.0.0.6.000000/0.1) Opera 7.2 EX [ja]",
+    "JV-Lite2WE/3.3(WX320KR) Profiles/MIDP-2.0 Configuration/CLDC-1.1"
+  ],
+  "WX320T": [
+    "Mozilla/3.0(WILLCOM;TOSHIBA/WX320T/2;端末Ver/ブラウザVer/C128) NetFront/3.4",
+    "JV-Lite2WE/3.3(WX320T) Profiles/MIDP-2.0 Configuration/CLDC-1.1"
+  ],
+  "WX321J": [
+    "Mozilla/3.0(WILLCOM;JRC/WX321J/2;端末Ver/ブラウザVer/C128) NetFront/3.4",
+    "JV-Lite2WE/3.3(WX321J) Profiles/MIDP-2.0 Configuration/CLDC-1.1"
+  ],
+  "WX330J": [
+    "Mozilla/3.0(WILLCOM;JRC/WX330J/2;端末Ver/ブラウザVer/C128) NetFront/3.4",
+    "JV-Lite2WE/3.3(WX330J) Profiles/MIDP-2.0 Configuration/CLDC-1.1"
+  ],
+  "WX330K": [
+    "Mozilla/3.0(WILLCOM;KYOCERA/WX330K/2;端末Ver/ブラウザVer/C100) Opera 7.2 EX",
+    "Mozilla/4.0 (compatible; MSIE 6.0; KYOCERA/WX330K/2;端末Ver/ブラウザVer) Opera 7.2 EX [ja]",
+    "JV-Lite2WE/3.3(WX330K) Profiles/MIDP-2.0 Configuration/CLDC-1.1"
+  ],
+  "WX331K": [
+    "Mozilla/4.0 (compatible; MSIE 6.0; KYOCERA/WX331K/2;端末Ver/ブラウザVer) Opera 7.2 EX [ja]"
+  ],
+  "WX331KC": [
+    "Mozilla/3.0(WILLCOM;KYOCERA/WX331KC/2;端末Ver/ブラウザVer/C100) Opera 7.2 EX",
+    "Mozilla/4.0 (compatible; MSIE 6.0; KYOCERA/WX331KC/2;端末Ver/ブラウザVer) Opera 7.2 EX [ja]"
+  ],
+  "WX333K": [
+    "Mozilla/3.0(WILLCOM;KYOCERA/WX333K/2;端末Ver/ブラウザVer/C100) Opera 7.2 EX",
+    "Mozilla/4.0 (compatible; MSIE 6.0; KYOCERA/WX333K/2;端末Ver/ブラウザVer) Opera 7.2 EX [ja]",
+    "JV-Lite2WE/3.3(WX333K) Profiles/MIDP-2.0 Configuration/CLDC-1.1"
+  ],
+  "WX334K": [
+    "Mozilla/3.0(WILLCOM;KYOCERA/WX334K/2;端末Ver/ブラウザVer/C100) Opera 7.2 EX",
+    "Mozilla/4.0 (compatible; MSIE 6.0; KYOCERA/WX334K/2;端末Ver/ブラウザVer) Opera 7.2 EX [ja]",
+    "JV-Lite2WE/3.3(WX334K) Profiles/MIDP-2.0 Configuration/CLDC-1.1"
+  ],
+  "WX340K": [
+    "Mozilla/3.0(WILLCOM;KYOCERA/WX340K/2;端末Ver/ブラウザVer/C256) NetFront/3.4",
+    "Mozilla/5.0 (MobilePhone; NMCS/3.4; like Gecko/20060901;KYOCERA/WX340K/2;端末Ver/ブラウザVer) NetFront/3.4 NetFront 3.4",
+    "JV-Lite2WE/3.3(WILLCOM/WX340K) Profiles/MIDP-2.0 Configuration/CLDC-1.1",
+    "Mozilla/3.0(WILLCOM;KYOCERA/WX340K/2;端末Ver/ブラウザVer/C256/NFBWidgets/1.0) NetFront/3.4"
+  ],
+  "WX341K": [
+    "Mozilla/3.0(WILLCOM;KYOCERA/WX341K/2;端末Ver/ブラウザVer/C256) NetFront/3.4",
+    "Mozilla/5.0 (MobilePhone; NMCS/3.4; like Gecko/20060901;KYOCERA/WX341K/2;端末Ver/ブラウザVer) NetFront/3.4 NetFront 3.4",
+    "JV-Lite2WE/3.3(WILLCOM/WX341K) Profiles/MIDP-2.0 Configuration/CLDC-1.1",
+    "Mozilla/3.0(WILLCOM;KYOCERA/WX341K/2;端末Ver/ブラウザVer/C256/NFBWidgets/1.0) NetFront/3.4"
+  ],
+  "WX350K": [
+    "Mozilla/3.0(WILLCOM;KYOCERA/WX350K/2;端末Ver/ブラウザVer/C256) NetFront/3.4",
+    "Mozilla/5.0 (MobilePhone; NMCS/3.4 like Gecko/20060901;KYOCERA/WX350K/2;端末Ver/ブラウザVer) NetFront/3.4 NetFront 3.4",
+    "JV-Lite2WE/3.3(WILLCOM/WX350K) Profiles/MIDP-2.0 Configuration/CLDC-1.1",
+    "Mozilla/3.0(WILLCOM;KYOCERA/WX350K/2;端末Ver/ブラウザVer/C256/NFBWidgets/1.0) NetFront/3.4"
+  ]
+}
