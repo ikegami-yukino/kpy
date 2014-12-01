@@ -1,5 +1,9 @@
 kpy
 ==========
+.. image:: https://travis-ci.org/ikegami-yukino/kpy.svg?branch=master
+    :target: https://travis-ci.org/ikegami-yukino/kpy
+.. image:: https://coveralls.io/repos/ikegami-yukino/kpy/badge.png
+  :target: https://coveralls.io/r/ikegami-yukino/kpy
 
 Kpy stands for Keitai (Japanese mobile phone) model name extractor on Python.
 
