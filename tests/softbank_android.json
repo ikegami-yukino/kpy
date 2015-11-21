@@ -1,4 +1,53 @@
 {
+  "Nexus 6P": [
+    "Mozilla/5.0 (Linux; Android 6.0; Nexus 6P Build/<buildID>) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36"
+  ],
+  "501SO": [
+    "Mozilla/5.0 (Linux; Android 5.1.1; 501SO Build/<buildID>) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36"
+  ],
+  "503HW": [
+    "Mozilla/5.0 (Linux;Android 5.0;503HW Build/<buildID>) AppleWebKit/537.36(KHTML, like Gecko)Version/4.0 Chrome/37.0.0.0 Mobile Safari/537.36"
+  ],
+  "Nexus 5X": [
+    "Mozilla/5.0 (Linux; Android 6.0; Nexus 5X Build/<buildID>) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36"
+  ],
+  "401SO": [
+    "Mozilla/5.0 (Linux; Android 5.0.2; 401SO Build/<buildID>) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/40.0.2214.89 Mobile Safari/537.36",
+    "Mozilla/5.0 (Linux; Android 5.0.2; 401SO Build/<buildID>) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.93 Mobile Safari/537.36"
+  ],
+  "403SH": [
+    "Mozilla/5.0 (Linux; Android 5.0.2; 403SH Build/<buildID>) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.111 Mobile Safari/537.36"
+  ],
+  "404SH": [
+    "Mozilla/5.0 (Linux; Android 5.0.2; 404SH Build/<buildID>) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.111 Mobile Safari/537.36"
+  ],
+  "402SO": [
+    "Mozilla/5.0 (Linux; Android 5.0.2; 402SO Build/<buildID>) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.93 Mobile Safari/537.36"
+  ],
+  "404SC": [
+    "Mozilla/5.0 (Linux; Android 5.0.2; 404SC Build/<buildID>) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.111 Mobile Safari/537.36"
+  ],
+  "404KC": [
+    "Mozilla/5.0 (Linux; Android 4.4.4; 404KC Build/<buildID>) AppleWebKit/537.36 (KHTML, likeGecko) Chrome/35.0.1916.141Mobile Safari/537.36"
+  ],
+  "402LG": [
+    "Mozilla/5.0 (Linux; U; Android 4.4.2; ja-jp; 402LG Build/<buildID>) AppleWebKit/537.36 (KHTML, likeGecko) Version/4.0 Chrome/34.0.1847.118 Mobile Safari/537.36",
+    "Mozilla/5.0 (Linux; Android 4.4.2; 402LG Build/<buildID>) AppleWebKit/537.36 (KHTML, likeGecko) Chrome/36.0.1985.135Mobile Safari/537.36"
+],
+  "402SH": [
+    "Mozilla/5.0 (Linux; Android 4.4.4; 402SH Build/<buildID>) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.117 Mobile Safari/537.36"
+  ],
+  "403SC": [
+    "Mozilla/5.0 (Linux; Android 4.4.2; ja-jp; 403SC Build/<buildID>) AppleWebKit/537.36 (KHTML, likeGecko) Version/1.5Chrome/28.0.1500.94Safari/537.36",
+    "Mozilla/5.0 (Linux; Android 4.4.2; 403SC Build/<buildID>) AppleWebKit/537.36 (KHTML, likeGecko) Chrome/36.0.1985.135 Safari/537.36"
+  ],
+  "Nexus 6": [
+    "Mozilla/5.0 (Linux; Android 5.0; Nexus 6 Build/<buildID>) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36"
+  ],
+  "403HW": [
+    "Mozilla/5.0 (Linux; U; Android 4.4.2; ja-jp; 403HW Build/<buildID>) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Safari/534.30",
+    "Mozilla/5.0 (Linux; Android 4.4.2; 403HW Build/<buildID>) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.135 Safari/537.36"
+  ],
   "001DL": [
     "Mozilla/5.0 (Linux; U; Android 2.2; ja-jp; 001DL Build/<buildID>) AppleWebKit/533.1 (KHTMlike Gecko) Version/4.0 Mobile Safari/533.1"
   ],

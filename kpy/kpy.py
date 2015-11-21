@@ -13,7 +13,7 @@ REGEXES = map(re.compile, (' (?P<name>[A-Z]{6,7} [A-Z0-9]{3,9}) ',
                            '[/ ](?P<name>[A-Z0-9\-]{4,7})[;\)]',
                            ' (?P<name>[A-Z0-9\-]{4,7}i?[2emBCDEFSTWX]?[iwyCGLMPSV]?[\+uzCLOS]?)\(',
                            '[;\(_](?P<name>[A-Z\-]{,5}[0-9][A-Z\-0-9pes]{,5})[; \(]',
-                           '(?P<name>Nexus \d{1,})',
+                           '(?P<name>Nexus [0-9a-zA-Z]+)',
                            '(?P<name>BlackBerry ?[0-9]*)[/;]',
                            ' (?P<name>((Nokia)|(Series))[\-a-zA-Z0-9]+)/',
                            '\A(?P<name>[A-Z0-9\-]{3,})[/;]'))
