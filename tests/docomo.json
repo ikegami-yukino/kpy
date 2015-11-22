@@ -1,4 +1,383 @@
 {
+  "SH505i":[
+    "DoCoMo/1.0/SH505i/c20/TB/W24H12"
+  ],
+  "SH252i":[
+    "DoCoMo/1.0/SH252i/c20/TB/W24H12"
+  ],
+  "D505i":[
+    "DoCoMo/1.0/D505i/c20/TB/W20H1"
+  ],
+  "SO505iS":[
+    "DoCoMo/1.0/SO505iS/c20/TB/W20H1"
+  ],
+  "F661i":[
+    "DoCoMo/1.0/F661i/c10/TB"
+  ],
+  "D505iS":[
+    "DoCoMo/1.0/D505iS/c20/TB/W20H1"
+  ],
+  "P505i":[
+    "DoCoMo/1.0/P505i/c20/TB/W20H1"
+  ],
+  "D252i":[
+    "DoCoMo/1.0/D252i/c10/TB/W25H12"
+  ],
+  "F505i":[
+    "DoCoMo/1.0/F505i/c20/TB/W20H1"
+  ],
+  "P211iS":[
+    "DoCoMo/1.0/P211iS/c1"
+  ],
+  "P252i":[
+    "DoCoMo/1.0/P252i/c10/TB/W22H1"
+  ],
+  "N251iS":[
+    "DoCoMo/1.0/N251iS/c10/TB"
+  ],
+  "N505iS":[
+    "DoCoMo/1.0/N505iS/c20/TB/W20H1"
+  ],
+  "P505iS":[
+    "DoCoMo/1.0/P505iS/c20/TB/W20H1"
+  ],
+  "N252i":[
+    "DoCoMo/1.0/N252i/c10/TB/W22H1"
+  ],
+  "SO505i":[
+    "DoCoMo/1.0/SO505i/c20/TB/W21H09"
+  ],
+  "F672i":[
+    "DoCoMo/1.0/F672i/c10/TB"
+  ],
+  "P251iS":[
+    "DoCoMo/1.0/P251iS/c10/TB"
+  ],
+  "F505iGPS":[
+    "DoCoMo/1.0/F505iGPS/c20/TB/W20H1"
+  ],
+  "D251iS":[
+    "DoCoMo/1.0/D251iS/c10/TB"
+  ],
+  "SH505iS":[
+    "DoCoMo/1.0/SH505iS/c20/TB/W24H12"
+  ],
+  "N505i":[
+    "DoCoMo/1.0/N505i/c20/TB/W20H1"
+  ],
+  "N211iS":[
+    "DoCoMo/1.0/N211iS/c1"
+  ],
+  "SO213iS":[
+    "DoCoMo/1.0/SO213iS/c10/TB"
+  ],
+  "P253i":[
+    "DoCoMo/1.0/P253i/c10/TB/W22H1"
+  ],
+  "P252iS":[
+    "DoCoMo/1.0/P252iS/c10/TB/W22H1"
+  ],
+  "P506iC":[
+    "DoCoMo/1.0/P506iC/c20/TB/W20H1"
+  ],
+  "D253i":[
+    "DoCoMo/1.0/D253i/c10/TB/W17H09"
+  ],
+  "P213i":[
+    "DoCoMo/1.0/P213i/c10/TB/W22H1"
+  ],
+  "D506i":[
+    "DoCoMo/1.0/D506i/c20/TB/W20H1"
+  ],
+  "SO213i":[
+    "DoCoMo/1.0/SO213i/c10/TB"
+  ],
+  "SO506iC":[
+    "DoCoMo/1.0/SO506iC/c20/TB/W20H1"
+  ],
+  "SH506iC":[
+    "DoCoMo/1.0/SH506iC/c20/TB/W24H12"
+  ],
+  "F506i":[
+    "DoCoMo/1.0/F506i/c20/TB/W20H1"
+  ],
+  "N506i":[
+    "DoCoMo/1.0/N506i/c20/TB/W20H11"
+  ],
+  "N253i":[
+    "DoCoMo/1.0/N253i/c10/TB/W20H1"
+  ],
+  "SO213iWR":[
+    "DoCoMo/1.0/SO213iWR/c10/TB"
+  ],
+  "P253iS":[
+    "DoCoMo/1.0/P253iS/c10/TB/W22H10"
+  ],
+  "SH851i":[
+    "DoCoMo/2.0 SH851i(c100;TB;W24H12)"
+  ],
+  "SO506i":[
+    "DoCoMo/1.0/SO506i/c20/TB/W20H1"
+  ],
+  "SO506iS":[
+    "DoCoMo/1.0/SO506iS/c20/TB/W20H1"
+  ],
+  "P851i":[
+    "DoCoMo/2.0 P851i(c100;TB;W24H12)"
+  ],
+  "N506iS":[
+    "DoCoMo/1.0/N506iS/c20/TB/W20H11"
+  ],
+  "F08F": [
+    "DoCoMo/2.0 F08F(c100;TB;W20H09)"
+  ],
+  "F01G": [
+    "DoCoMo/2.0 F01G(c100;TB;W20H09)"
+  ],
+  "SH07F": [
+    "DoCoMo/2.0 SH07F(c500;TB;W24H16)"
+  ],
+  "N01G": [
+    "DoCoMo/2.0 N01G(c500;TB;W24H16)"
+  ],
+  "P01G": [
+    "DoCoMo/2.0 P01G(c500;TB;W24H16)"
+  ],
+  "F07F": [
+    "DoCoMo/2.0 F07F(c500;TB;W24H16)"
+  ],
+  "N07E": [
+    "DoCoMo/2.0 N07E(c500;TB;W24H16)"
+  ],
+  "N501i": [
+    "DoCoMo/1.0/N501i"
+  ],
+  "D501i": [
+    "DoCoMo/1.0/D501i"
+  ],
+  "P501i": [
+    "DoCoMo/1.0/P501i"
+  ],
+  "F502i": [
+    "DoCoMo/1.0/F502i",
+    "DoCoMo/1.0/F502i/c10"
+  ],
+  "F501i": [
+    "DoCoMo/1.0/F501i"
+  ],
+  "P209i": [
+    "DoCoMo/1.0/P209i",
+    "DoCoMo/1.0/P209i/c10"
+  ],
+  "N821i": [
+    "DoCoMo/1.0/N821i",
+    "DoCoMo/1.0/N821i/c08"
+  ],
+  "N502i": [
+    "DoCoMo/1.0/N502i",
+    "DoCoMo/1.0/N502i/c08"
+  ],
+  "SO502i": [
+    "DoCoMo/1.0/SO502i"
+  ],
+  "ER209i": [
+    "DoCoMo/1.0/ER209i",
+    "DoCoMo/1.0/ER209i/c15"
+  ],
+  "P821i": [
+    "DoCoMo/1.0/P821i",
+    "DoCoMo/1.0/P821i/c08"
+  ],
+  "NM502i": [
+    "DoCoMo/1.0/NM502i",
+    "DoCoMo/1.0/NM502i/c10"
+  ],
+  "D209i": [
+    "DoCoMo/1.0/D209i",
+    "DoCoMo/1.0/D209i/c10"
+  ],
+  "N209i": [
+    "DoCoMo/1.0/N209i",
+    "DoCoMo/1.0/N209i/c08"
+  ],
+  "P209is": [
+    "DoCoMo/1.0/P209is",
+    "DoCoMo/1.0/P209is/c10"
+  ],
+  "N502it": [
+    "DoCoMo/1.0/N502it",
+    "DoCoMo/1.0/N502it/c10"
+  ],
+  "F209i": [
+    "DoCoMo/1.0/F209i",
+    "DoCoMo/1.0/F209i/c10"
+  ],
+  "R209i": [
+    "DoCoMo/1.0/R209i"
+  ],
+  "SO502iWM": [
+    "DoCoMo/1.0/SO502iWM/c10"
+  ],
+  "F502it": [
+    "DoCoMo/1.0/F502it",
+    "DoCoMo/1.0/F502it/c10"
+  ],
+  "D502i": [
+    "DoCoMo/1.0/D502i",
+    "DoCoMo/1.0/D502i/c10"
+  ],
+  "P502i": [
+    "DoCoMo/1.0/P502i",
+    "DoCoMo/1.0/P502i/c10"
+  ],
+  "SH821i": [
+    "DoCoMo/1.0/SH821i",
+    "DoCoMo/1.0/SH821i/c10"
+  ],
+  "F503i":[
+    "DoCoMo/1.0/F503i/c10"
+  ],
+  "N210i":[
+    "DoCoMo/1.0/N210iDoCoMo/1.0/N210i/c10"
+  ],
+  "P503i":[
+    "DoCoMo/1.0/P503i/c10"
+  ],
+  "SO503iS":[
+    "DoCoMo/1.0/SO503iS/c10"
+  ],
+  "641P":[
+    "DoCoMo/1.0/641P/c10"
+  ],
+  "633S":[
+    "DoCoMo/1.0/633S/c20"
+  ],
+  "F503iS":[
+    "DoCoMo/1.0/F503iS/c10"
+  ],
+  "F671i":[
+    "DoCoMo/1.0/F671i/c10"
+  ],
+  "P503iS":[
+    "DoCoMo/1.0/P503iS/c10"
+  ],
+  "R691i":[
+    "DoCoMo/1.0/R691iDoCoMo/1.0/R691i/c10"
+  ],
+  "SO503i":[
+    "DoCoMo/1.0/SO503i/c10"
+  ],
+  "P210i":[
+    "DoCoMo/1.0/P210iDoCoMo/1.0/P210i/c10"
+  ],
+  "D503iS":[
+    "DoCoMo/1.0/D503iS/c10"
+  ],
+  "SO210i":[
+    "DoCoMo/1.0/SO210i/c10"
+  ],
+  "F211i":[
+    "DoCoMo/1.0/F211i/c10"
+  ],
+  "N503iS":[
+    "DoCoMo/1.0/N503iS/c10"
+  ],
+  "N211i":[
+    "DoCoMo/1.0/N211i/c10"
+  ],
+  "F210i":[
+    "DoCoMo/1.0/F210i/c10"
+  ],
+  "D210i":[
+    "DoCoMo/1.0/D210i/c10"
+  ],
+  "KO210i":[
+    "DoCoMo/1.0/KO210iDoCoMo/1.0/KO210i/c10"
+  ],
+  "641S":[
+    "DoCoMo/1.0/641S/c10"
+  ],
+  "D211i":[
+    "DoCoMo/1.0/D211i/c10"
+  ],
+  "N503i":[
+    "DoCoMo/1.0/N503i/c10"
+  ],
+  "KO209i":[
+    "DoCoMo/1.0/KO209i"
+  ],
+  "SH712m":[
+    "DoCoMo/1.0/SH712m/c10"
+  ],
+  "D503i":[
+    "DoCoMo/1.0/D503i/c10"
+  ],
+  "F671iS":[
+    "DoCoMo/1.0/F671iS/c10/TB"
+  ],
+  "P211i":[
+    "DoCoMo/1.0/P211i/c10"
+  ],
+  "F212i":[
+    "DoCoMo/1.0/F212i/c10/TB"
+  ],
+  "P504i":[
+    "DoCoMo/1.0/P504i/c10/TB"
+  ],
+  "F504iS":[
+    "DoCoMo/1.0/F504iS/c10/TB"
+  ],
+  "F251i":[
+    "DoCoMo/1.0/F251i/c10/TBDoCoMo/1.0/F251i/c10/c10/TB"
+  ],
+  "R211i":[
+    "DoCoMo/1.0/R211i/c10"
+  ],
+  "R692i":[
+    "DoCoMo/1.0/R692i/c10"
+  ],
+  "N504iS":[
+    "DoCoMo/1.0/N504iS/c10/TB"
+  ],
+  "SH251i":[
+    "DoCoMo/1.0/SH251i/c10"
+  ],
+  "SH251iS":[
+    "DoCoMo/1.0/SH251iS/c10"
+  ],
+  "P504iS":[
+    "DoCoMo/1.0/P504iS/c10/TB"
+  ],
+  "642S":[
+    "DoCoMo/1.0/642S/c20"
+  ],
+  "N251i":[
+    "DoCoMo/1.0/N251i/c10/TB"
+  ],
+  "SO504i":[
+    "DoCoMo/1.0/SO504i/c10/TB"
+  ],
+  "D504i":[
+    "DoCoMo/1.0/D504i/c10"
+  ],
+  "N504i":[
+    "DoCoMo/1.0/N504i/c10/TB"
+  ],
+  "SO211i":[
+    "DoCoMo/1.0/SO211i/c10"
+  ],
+  "SO212i":[
+    "DoCoMo/1.0/SO212i/c10/TB"
+  ],
+  "D251i":[
+    "DoCoMo/1.0/D251i/c10"
+  ],
+  "F504i":[
+    "DoCoMo/1.0/F504i/c10/TB"
+  ],
+  "P751v":[
+    "DoCoMo/1.0/P751v/c100/s64/kPHS-K"
+  ],
   "CA01C": [
     "DoCoMo/2.0 CA01C(c500;TB;W24H16)"
   ],
@@ -77,9 +456,6 @@
   "F01E": [
     "DoCoMo/2.0 F01E(c500;TB;W24H16)"
   ],
-  "F01G": [
-    "DoCoMo/2.0 F01G(c100;TB;W20H09)"
-  ],
   "F02A": [
     "DoCoMo/2.0 F02A(c100;TB;W24H17)"
   ],
@@ -137,9 +513,6 @@
   "F07C": [
     "DoCoMo/2.0 F07C(c500;TB;W24H15)"
   ],
-  "F07F": [
-    "DoCoMo/2.0 F07F(c500;TB;W24H16)"
-  ],
   "F08A3": [
     "DoCoMo/2.0 F08A3(c500;TB;W24H16)"
   ],
@@ -148,9 +521,6 @@
   ],
   "F08C": [
     "DoCoMo/2.0 F08C(c100;TB;W20H09)"
-  ],
-  "F08F": [
-    "DoCoMo/2.0 F08F(c100;TB;W20H09)"
   ],
   "F09A3": [
     "DoCoMo/2.0 F09A3(c500;TB;W24H16)"
@@ -350,9 +720,6 @@
   "N01F": [
     "DoCoMo/2.0 N01F(c500;TB;W24H16)"
   ],
-  "N01G": [
-    "DoCoMo/2.0 N01G(c500;TB;W24H16)"
-  ],
   "N02A": [
     "DoCoMo/2.0 N02A(c100;TB;W24H16)"
   ],
@@ -403,9 +770,6 @@
   ],
   "N07B": [
     "DoCoMo/2.0 N07B(c500;TB;W24H16)"
-  ],
-  "N07E": [
-    "DoCoMo/2.0 N07E(c500;TB;W24H16)"
   ],
   "N08A3": [
     "DoCoMo/2.0 N08A3(c500;TB;W24H16)"
@@ -554,9 +918,6 @@
   "P01F": [
     "DoCoMo/2.0 P01F(c500;TB;W24H16)"
   ],
-  "P01G": [
-    "DoCoMo/2.0 P01G(c500;TB;W24H16)"
-  ],
   "P02A": [
     "DoCoMo/2.0 P02A(c100;TB;W24H15)"
   ],
@@ -667,9 +1028,6 @@
   ],
   "P706imyu": [
     "DoCoMo/2.0 P706imyu(c100;TB;W24H15)"
-  ],
-  "P851i": [
-    "DoCoMo/2.0 P851i(c100;TB;W24H12)"
   ],
   "P900i": [
     "DoCoMo/2.0 P900i(c100;TB;W24H11)"
@@ -788,9 +1146,6 @@
   "SH07B": [
     "DoCoMo/2.0 SH07B(c500;TB;W24H16)"
   ],
-  "SH07F": [
-    "DoCoMo/2.0 SH07F(c500;TB;W24H16)"
-  ],
   "SH08A": [
     "DoCoMo/2.0 SH08A(c500;TB;W24H14)"
   ],
@@ -847,9 +1202,6 @@
   ],
   "SH706iw": [
     "DoCoMo/2.0 SH706iw(c100;TB;W24H16)"
-  ],
-  "SH851i": [
-    "DoCoMo/2.0 SH851i(c100;TB;W24H12)"
   ],
   "SH900i": [
     "DoCoMo/2.0 SH900i(c100;TB;W24H12)"
@@ -910,7 +1262,7 @@
   ],
   "SO902iWP+": [
     "DoCoMo/2.0 SO902iWP+(c100;TB;W24H12)"
-  ],  
+  ],
   "SO903i": [
     "DoCoMo/2.0 SO903i(c100;TB;W24H18)"
   ],
