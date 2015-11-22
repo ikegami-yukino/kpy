@@ -1,4 +1,110 @@
 {
+  "J-K03": [
+    "J-PHONE/3.0/J-K03"
+  ],
+  "J-DN02": [
+    "J-PHONE/2.0/J-DN02",
+    "J-PHONE/2.0/J-DN02_a",
+    "J-PHONE/2.0/J-DN02_b"
+  ],
+  "J-SH03": [
+    "J-PHONE/2.0/J-SH03",
+    "J-PHONE/2.0/J-SH03_a"
+  ],
+  "J-SH04": [
+    "J-PHONE/3.0/J-SH04",
+    "J-PHONE/3.0/J-SH04_a",
+    "J-PHONE/3.0/J-SH04_b",
+    "J-PHONE/3.0/J-SH04_c"
+  ],
+  "J-PE03": [
+    "J-PHONE/3.0/J-PE03",
+    "J-PHONE/3.0/J-PE03_a",
+    "J-PHONE/3.0/J-PE03_b",
+    "J-PHONE/3.0/J-PE03_c"
+  ],
+  "J-D03": [
+    "J-PHONE/3.0/J-D03"
+  ],
+  "J-N03": [
+    "J-PHONE/3.0/J-N03"
+  ],
+  "J-SH05": [
+    "J-PHONE/3.0/J-SH05",
+    "J-PHONE/3.0/J-SH05_a"
+  ],
+  "J-P02": [
+    "J-PHONE/2.0/J-P02",
+    "J-PHONE/2.0/J-P02_a"
+  ],
+  "J-P03": [
+    "J-PHONE/2.0/J-P03"
+  ],
+  "J-T04": [
+    "J-PHONE/2.0/J-T04",
+    "J-PHONE/2.0/J-T04_a"
+  ],
+  "J-SA02": [
+    "J-PHONE/2.0/J-SA02"
+  ],
+  "J-D04": [
+    "J-PHONE/3.0/J-D04"
+  ],
+  "J-SH02":[
+    "J-PHONE/2.0/J-SH02",
+    "J-PHONE/2.0/J-SH02_a"
+  ],
+  "J-K51":[
+    "J-PHONE/4.0/J-K51/SN*********** KW/1.00 Profile/MIDP-1.0 Configuration/CLDC-1.0 Ext-Profile/JSCL-1.1.0"
+  ],
+  "J-SH08":[
+    "J-PHONE/3.0/J-SH08"
+  ],
+  "J-T07":[
+    "J-PHONE/3.0/J-T07"
+  ],
+  "J-P51":[
+    "J-PHONE/4.0/J-P51/SN*********** MA/JDP51A36 Profile/MIDP-1.0 Configuration/CLDC-1.0 Ext-Profile/JSCL-1.1.0"
+  ],
+  "J-T51":[
+    "J-PHONE/4.0/J-T51/SN*********** TS/1.00 Profile/MIDP-1.0 Configuration/CLDC-1.0 Ext-Profile/JSCL-1.1.0"
+  ],
+  "J-SA05":[
+    "J-PHONE/3.0/J-SA05"
+  ],
+  "J-SH52":[
+    "J-PHONE/4.1/J-SH52/SN*********** SH/0002aa Profile/MIDP-1.0 Configuration/CLDC-1.0 Ext-Profile/JSCL-1.1.1"
+  ],
+  "J-SH51":[
+    "J-PHONE/4.0/J-SH51/SN*********** SH/0001aa Profile/MIDP-1.0 Configuration/CLDC-1.0 Ext-Profile/JSCL-1.1.0",
+    "J-PHONE/4.0/J-SH51_a/SN*********** SH/0001aa Profile/MIDP-1.0 Configuration/CLDC-1.0 Ext-Profile/JSCL-1.1.0"
+  ],
+  "J-NM02":[
+    "J-PHONE/3.0/J-NM02"
+  ],
+  "J-T08":[
+    "J-PHONE/3.0/J-T08"
+  ],
+  "J-SH09":[
+    "J-PHONE/3.0/J-SH09",
+    "J-PHONE/3.0/J-SH09_a"
+  ],
+  "J-D06":[
+    "J-PHONE/3.0/J-D06"
+  ],
+  "J-N05":[
+    "J-PHONE/3.0/J-N05"
+  ],
+  "J-SA51":[
+    "J-PHONE/4.1/J-SA51/SN*********** SA/0001JP Profile/MIDP-1.0 Configuration/CLDC-1.0 Ext-Profile/JSCL-1.1.1",
+    "J-PHONE/4.1/J-SA51_a/SN*********** SA/0001JP Profile/MIDP-1.0 Configuration/CLDC-1.0 Ext-Profile/JSCL-1.1.1"
+  ],
+  "302ZT":[
+    "SoftBank/1.0/302ZT/ZJ001/SN*************** Browser/NetFront/3.5"
+  ],
+  "401PM":[
+    "SoftBank/1.0/401PM/PJP##/SN*************** Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1"
+  ],
   "001N": [
     "SoftBank/1.0/001N/NJ001[/Serial] Browser/NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1",
     "SoftBank/1.0/001N/NJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
@@ -16,6 +122,122 @@
   "001SC": [
     "SoftBank/1.0/001SC/SCJ001[/Serial] Browser/NetFront/3.5",
     "Mozilla/5.0 (001SC;SoftBank[;Serial]) NetFront/3.5"
+  ],
+  "201SH":[
+    "J-PHONE/3.0/V201SH"
+  ],
+  "502T":[
+    "J-PHONE/4.3/V502T/SN*********** TS/2.00 Profile/MIDP-1.0 Configuration/CLDC-1.0 Ext-Profile/JSCL-1.3.2"
+  ],
+  "403SH":[
+    "J-PHONE/3.0/V403SH"
+  ],
+  "604T":[
+    "J-PHONE/4.3/V604T/SN*********** TS/2.00 Profile/MIDP-1.0 Configuration/CLDC-1.0 Ext-Profile/JSCL-1.3.2"
+  ],
+  "304T":[
+    "J-PHONE/3.0/V304T"
+  ],
+  "501T":[
+    "J-PHONE/4.3/V501T/SN*********** TS/2.00 Profile/MIDP-1.0 Configuration/CLDC-1.0 Ext-Profile/JSCL-1.3.2"
+  ],
+  "501SH":[
+    "J-PHONE/4.3/V501SH/SN*********** SH/0008aa Profile/MIDP-1.0 Configuration/CLDC-1.0 Ext-Profile/JSCL-1.3.2"
+  ],
+  "302SH":[
+    "J-PHONE/3.0/V302SH"
+  ],
+  "802N":[
+    "Vodafone/1.0/V802N/NJ001/SN*************** Browser/UP.Browser/7.0.2.1.307 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0",
+    "Vodafone/1.0/V802N/NJ002/SN*************** Browser/UP.Browser/7.0.2.1.307 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0",
+    "Vodafone/1.0/V802N/NJ003/SN*************** Browser/UP.Browser/7.0.2.1.307 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0"
+  ],
+  "603SH":[
+    "J-PHONE/4.3/V603SH/SN*********** SH/0007aa Profile/MIDP-1.0 Configuration/CLDC-1.0 Ext-Profile/JSCL-1.3.2"
+  ],
+  "604SH":[
+    "J-PHONE/4.3/V604SH/SN*********** SH/0009aa Profile/MIDP-1.0 Configuration/CLDC-1.0 Ext-Profile/JSCL-1.3.2"
+  ],
+  "603T":[
+    "J-PHONE/4.3/V603T/SN*********** TS/2.00 Profile/MIDP-1.0 Configuration/CLDC-1.0 Ext-Profile/JSCL-1.3.2"
+  ],
+  "401SA":[
+    "J-PHONE/3.0/V401SA"
+  ],
+  "601T":[
+    "J-PHONE/4.3/V601T/SN*********** TS/2.00 Profile/MIDP-1.0 Configuration/CLDC-1.0 Ext-Profile/JSCL-1.2.2"
+  ],
+  "402SH":[
+    "J-PHONE/3.0/V402SH"
+  ],
+  "602T":[
+    "J-PHONE/4.3/V602T/SN*********** TS/2.00 Profile/MIDP-1.0 Configuration/CLDC-1.0 Ext-Profile/JSCL-1.2.2"
+  ],
+  "303T":[
+    "J-PHONE/3.0/V303T"
+  ],
+  "602SH":[
+    "J-PHONE/4.3/V602SH/SN*********** SH/0006aa Profile/MIDP-1.0 Configuration/CLDC-1.0 Ext-Profile/JSCL-1.2.2"
+  ],
+  "302T":[
+    "J-PHONE/3.0/V302T"
+  ],
+  "401D":[
+    "J-PHONE/3.0/V401D"
+  ],
+  "401T":[
+    "J-PHONE/3.0/V401T"
+  ],
+  "102D":[
+    "J-PHONE/3.0/V102D"
+  ],
+  "801SH":[
+    "J-PHONE/5.0/V801SH/SN*********** SH/0005aa Profile/MIDP-1.0 Configuration/CLDC-1.0 Ext-Profile/JSCL-1.1.0"
+  ],
+    "J-N51":[
+    "J-PHONE/4.2/J-N51/SN*********** N/01000100 Profile/MIDP-1.0 Configuration/CLDC-1.0 Ext-Profile/JSCL-1.1.1"
+    ],
+  "401SH":[
+    "J-PHONE/3.0/V401SH"
+  ],
+  "J-SA06":[
+    "J-PHONE/3.0/J-SA06"
+  ],
+  "601N":[
+    "J-PHONE/4.2/V601N/SN*********** N/01000100 Profile/MIDP-1.0 Configuration/CLDC-1.0 Ext-Profile/JSCL-1.1.1"
+  ],
+  "801SA":[
+    "J-PHONE/5.0/V801SA/SN*********** SA/0001JP Profile/MIDP-1.0 Configuration/CLDC-1.0 Ext-Profile/JSCL-1.1.0",
+    "J-PHONE/5.0/V801SA_a/SN*********** SA/0001JP Profile/MIDP-1.0 Configuration/CLDC-1.0 Ext-Profile/JSCL-1.1.0"
+  ],
+  "301T":[
+    "J-PHONE/3.0/V301T"
+  ],
+  "J-D08":[
+    "J-PHONE/3.0/J-D08"
+  ],
+  "601SH":[
+    "J-PHONE/4.2/V601SH/SN*********** SH/0004aa Profile/MIDP-1.0 Configuration/CLDC-1.0 Ext-Profile/JSCL-1.2.1"
+  ],
+  "301D":[
+    "J-PHONE/3.0/V301D"
+  ],
+  "J-T09":[
+    "J-PHONE/3.0/J-T09"
+  ],
+  "J-T10":[
+    "J-PHONE/3.0/J-T10"
+  ],
+  "J-SH53":[
+    "J-PHONE/4.2/J-SH53/SN*********** SH/0003aa Profile/MIDP-1.0 Configuration/CLDC-1.0 Ext-Profile/JSCL-1.2.1",
+    "J-PHONE/4.2/J-SH53_a/SN*********** SH/0003aa Profile/MIDP-1.0 Configuration/CLDC-1.0 Ext-Profile/JSCL-1.2.1"
+  ],
+  "J-D07":[
+    "J-PHONE/3.0/J-D07"
+  ],
+  "J-SH10":[
+    "J-PHONE/3.0/J-SH10",
+    "J-PHONE/3.0/J-SH10_a"
   ],
   "001SH": [
     "SoftBank/2.0/001SH/SHJ001[/Serial] Browser/NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1",
@@ -106,31 +328,29 @@
     "Mozilla/5.0 (301SH;SoftBank[;Serial]) NetFront/3.5"
   ],
   "MOT-V980": [
-    "MOT-V980/80.2F.2E. MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1",
     "MOT-V980/80.2F.2E. MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1"
   ],
-  "V702NK": [
+  "702NK": [
     "Vodafone/1.0/V702NK/NKJ001[/Serial] Series60/2.6 Nokia6630/2.39.148 Profile/MIDP-2.0 Configuration/CLDC-1.1",
     "Vodafone/1.0/V702NK/NKJ001[/Serial] Java/VF-Java/1.0 Series60/2.6 Nokia6630/2.39.146 Profile/MIDP-2.0 Configuration/CLDC-1.1"
   ],
-  "V702NK2": [
+  "702NK2": [
     "Vodafone/1.0/V702NK2/NKJ001[/Serial]Series60/2.6 Nokia6680/4.04.28 Profile/MIDP-2.0 Configuration/CLDC-1.1",
     "Vodafone/1.0/V702NK2/NKJ001[/Serial] Java/VF-Java/1.0 Series60/2.6 Nokia6630/2.39.146 Profile/MIDP-2.0 Configuration/CLDC-1.1"
   ],
   "MOT-C980": [
-    "MOT-C980/80.2F.2E. MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1",
     "MOT-C980/80.2F.2E. MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1"
   ],
-  "V703N": [
+  "703N": [
     "Vodafone/1.0/V703N/NJ001[/Serial] Browser/UP.Browser/7.0.2.1.307 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0",
     "Vodafone/1.0/V703N/NJ001[/Serial] Java/UP.Browser/7.0.2.1.307 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0"
   ],
-  "V703SH": [
+  "703SH": [
     "Vodafone/1.0/V703SH/SHJ001[/Serial] Browser/UP.Browser/7.0.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0",
     "Vodafone/1.0/V703SH/SHJ001[/Serial] Java/VF-Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0",
     "Vodafone/1.0/V703SH/SHJ001[/Serial] Flash/VF-Flash-Lite/1.1"
   ],
-  "V703SHf": [
+  "703SHf": [
     "Vodafone/1.0/V703SHf/SHJ001[/Serial] Browser/UP.Browser/7.0.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0",
     "Vodafone/1.0/V703SHf/SHJ001[/Serial] Java/VF-Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0",
     "Vodafone/1.0/V703SHf/SHJ001[/Serial] Flash/VF-Flash-Lite/1.1"
@@ -151,12 +371,12 @@
     "SoftBank/1.0/705SC/SCJ001[/Serial] Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
     "SoftBank/1.0/705SC/SCJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1"
   ],
-  "V705SH": [
+  "705SH": [
     "Vodafone/1.0/V705SH/SHJ001[/Serial] Browser/VF-NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
     "Vodafone/1.0/V705SH/SHJ001[/Serial] Java/VF-Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
     "Vodafone/1.0/V705SH/SHJ001[/Serial] Flash/VF-Flash-Lite/1.1"
   ],
-  "V705T": [
+  "705T": [
     "Vodafone/1.0/V705T/TJ001[/Serial] Browser/VF-Browser/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0",
     "Vodafone/1.0/V705T/TJ001[/Serial] Java/VF-Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0"
   ],
@@ -195,37 +415,33 @@
     "SoftBank/1.0/740SC/SCJ001[/Serial] Browser/NetFront/3.3",
     "Mozilla/4.08 (740SC;SoftBank[;Serial]) NetFront/3.3"
   ],
-  "V802N": [
-    "Vodafone/1.0/V802N/NJ001[/Serial] Browser/UP.Browser/7.0.2.1.258 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0",
-    "Vodafone/1.0/V802N/NJ001[/Serial] Java/ UP.Browser/7.0.2.1.307Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0"
-  ],
-  "V802SE": [
+  "802SE": [
     "Vodafone/1.0/V802SE/SEJ001[/Serial] Browser/SEMC-Browser/4.1 Profile/MIDP-2.0 Configuration/CLDC-1.1",
     "Vodafone/1.0/V802SE/SEJ001[/Serial] Java/SEMC-Java/2.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-V-Profile/VSCL-2.0.0",
     "SoftBank/1.0/V802SE/SEJ001[/Serial] Flash/VF-Flash/1.1"
   ],
-  "V802SH": [
+  "802SH": [
     "Vodafone/1.0/V802SH/SHJ001[/Serial] Browser/UP.Browser/7.0.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0",
     "Vodafone/1.0/V802SH/SHJ001[/Serial] Java/VF-Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0",
     "Vodafone/1.0/V802SH/SHJ001[/Serial] Flash/VF-Flash-Lite/1.1"
   ],
-  "V803T": [
+  "803T": [
     "Vodafone/1.0/V803T/TJ001[/Serial] Browser/VF-Browser/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0",
     "Vodafone/1.0/V803T/TJ001[/Serial] Java/VF-Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0"
   ],
-  "V804N": [
+  "804N": [
     "Vodafone/1.0/V804N/NJ001[/Serial] Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
     "Vodafone/1.0/V804N/NJ001[/Serial] Java/VF-Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1"
   ],
-  "V804NK": [
+  "804NK": [
     "Vodafone/1.0/V804NK/NKJ001[/Serial] Series60/3.0 NokiaN71/X.XXXX Profile/MIDP-2.0 Configuration/CLDC-1.1",
     "Vodafone/1.0/V804NK/NKJ001[/Serial] Java/VF-Java/1.0 Series60/3.0 NokiaN71/X.XX.XX Profile/MIDP-2.0 Configuration/CLDC-1.1"
   ],
-  "V804SH": [
+  "804SH": [
     "Vodafone/1.0/V804SH/SHJ001[/Serial] Browser/UP.Browser/7.0.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.3.2 Ext-V-Profile/VSCL-2.0.0",
     "Vodafone/1.0/V804SH/SHJ001[/Serial] Flash/VF-Flash-Lite/1.1"
   ],
-  "V804SS": [
+  "804SS": [
     "Vodafone/1.0/V804SS/SSJ001[/Serial] Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
     "Vodafone/1.0/V804SS/SSJ001[/Serial] Java/VF-Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1"
   ],
@@ -628,34 +844,34 @@
     "SoftBank/1.0/843SH/SHJ001[/Serial] Java/Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
     "SoftBank/1.0/843SH/SHJ001[/Serial] Flash/Flash-Lite/3.1"
   ],
-  "V902SH": [
+  "902SH": [
     "Vodafone/1.0/V902SH/SHJ001[/Serial] Browser/UP.Browser/7.0.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0",
     "Vodafone/1.0/V902SH/SHJ001[/Serial] Java/VF-Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0",
     "Vodafone/1.0/V902SH/SHJ001[/Serial] Flash/VF-Flash-Lite/1.1"
   ],
-  "V902T": [
+  "902T": [
     "Vodafone/1.0/V902T/TJ001[/Serial] Browser/VF-Browser/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0",
     "Vodafone/1.0/V902T/TJ001[/Serial] Java/VF-Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0"
   ],
-  "V903SH": [
+  "903SH": [
     "Vodafone/1.0/V903SH/SHJ001[/Serial] Browser/UP.Browser/7.0.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0",
     "Vodafone/1.0/V903SH/SHJ001[/Serial] Java/VF-Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0",
     "Vodafone/1.0/V903SH/SHJ001[/Serial] Flash/VF-Flash-Lite/1.1"
   ],
-  "V903T": [
+  "903T": [
     "Vodafone/1.0/V903T/TJ001[/Serial] Browser/VF-Browser/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0",
     "Vodafone/1.0/V903T/TJ001[/Serial]Java/VF-Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.3 Ext-V-Profile/VSCL-2.1.0"
   ],
-  "V904SH": [
+  "904SH": [
     "Vodafone/1.0/V904SH/SHJ001[/Serial] Browser/VF-NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
     "Vodafone/1.0/V904SH/SHJ001[/Serial] Java/VF-Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
     "Vodafone/1.0/V904SH/SHJ001[/Serial] Flash/VF-Flash-Lite/1.1"
   ],
-  "V904T": [
+  "904T": [
     "Vodafone/1.0/V904T/TJ001[/Serial] Browser/VF-Browser/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0",
     "Vodafone/1.0/V904T/TJ001[/Serial] Java/VF-Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 Ext-J-Profile/JSCL-1.2.2 Ext-V-Profile/VSCL-2.0.0"
   ],
-  "V905SH": [
+  "905SH": [
     "Vodafone/1.0/V905SH/SHJ001[/Serial] Browser/VF-NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
     "Vodafone/1.0/V905SH/SHJ001[/Serial] Java/VF-Java/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
     "Vodafone/1.0/V905SH/SHJ001[/Serial] Flash/VF-Flash-Lite/1.1"
