@@ -1,4 +1,76 @@
 {
+  "SC-01H": [
+    "Mozilla/5.0 (Linux; Android 5.1.1; SC-01H Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.93 Mobile Safari/537.36",
+    "Mozilla/5.0 (Linux; Android 5.1.1; SC-01H Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.5 Chrome/38.0.2125.102 Mobile Safari/537.36"
+  ],
+  "SH-01H": [
+    "Mozilla/5.0 (Linux; Android 5.1.1; SH-01H Build/SA160) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36"
+  ],
+  "SO-01H": [
+    "Mozilla/5.0 (Linux; Android 5.1.1; SO-01H Build/32.0.B.0.370) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36"
+  ],
+  "SO-02H": [
+    "Mozilla/5.0 (Linux; Android 5.1.1; SO-02H Build/32.0.B.0.411) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36"
+  ],
+  "SO-03H": [
+    "Mozilla/5.0 (Linux; Android 5.1.1; SO-03H Build/32.0.B.0.426) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36"
+  ],
+  "F-01H": [
+    "Mozilla/5.0 (Linux; Android 5.1.1; F-01H Build/V14R065A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.93 Mobile Safari/537.36",
+    "Mozilla/5.0 (Linux; Android 5.1.1; F-01H Build/V14R065A) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/39.0.0.0 Mobile Safari/537.36"
+  ],
+  "DM-01G": [
+    "Mozilla/5.0 (Linux; Android 5.0.2; DM-01G Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.93 Mobile Safari/537.36",
+    "Mozilla/5.0 (Linux; Android 5.0.2; DM-01G Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/38.0.2125.102 Mobile Safari/537.36"
+  ],
+  "SC-04G": [
+    "Mozilla/5.0 (Linux; Android 5.0.2; SC-04G Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.93 Mobile Safari/537.36",
+    "Mozilla/5.0 (Linux; Android 5.0.2; SC-04G Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0 Chrome/38.0.2125.102 Mobile Safari/537.36"
+  ],
+  "SC-05G": [
+    "Mozilla/5.0 (Linux; Android 5.0.2; SC-05G Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.93 Mobile Safari/537.36",
+    "Mozilla/5.0 (Linux; Android 5.0.2; SC-05G Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0 Chrome/38.0.2125.102 Mobile Safari/537.36"
+  ],
+  "SH-03G": [
+    "Mozilla/5.0 (Linux; Android 5.0.2; SH-03G Build/S5150) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.111 Mobile Safari/537.36"
+  ],
+  "SH-04G": [
+    "Mozilla/5.0 (Linux; Android 5.0.2; SH-04G Build/S6060) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.111 Mobile Safari/537.36"
+  ],
+  "SH-05G": [
+    "Mozilla/5.0 (Linux; Android 5.0.2; SH-05G Build/S6290) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.111 Safari/537.36"
+  ],
+  "SH-06G": [
+    "Mozilla/5.0 (Linux; Android 4.4.4; SH-06G Build/S6110) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36"
+  ],
+  "SO-03G": [
+    "Mozilla/5.0 (Linux; Android 5.0.2; SO-03G Build/28.0.B.0.446) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.93 Mobile Safari/537.36",
+    "Mozilla/5.0 (Linux; Android 5.0.2; SO-03G Build/28.0.B.0.446) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/40.0.2214.89 Mobile Safari/537.36"
+  ],
+  "SO-04G": [
+    "Mozilla/5.0 (Linux; Android 5.0.2; SO-04G Build/23.1.B.0.435) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.93 Mobile Safari/537.36",
+    "Mozilla/5.0 (Linux; Android 5.0.2; SO-04G Build/23.1.B.0.435) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/40.0.2214.89 Mobile Safari/537.36"
+  ],
+  "SO-05G": [
+    "Mozilla/5.0 (Linux; Android 5.0.2; SO-05G Build/28.0.B.1.135) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.93 Safari/537.36",
+    "Mozilla/5.0 (Linux; Android 5.0.2; SO-05G Build/28.0.B.1.135) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/40.0.2214.89 Safari/537.36"
+  ],
+  "F-04G": [
+    "Mozilla/5.0 (Linux; Android 5.0.2; F-04G Build/V14R36F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.93 Mobile Safari/537.36",
+    "Mozilla/5.0 (Linux; Android 5.0.2; F-04G Build/V14R36F) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 Mobile Safari/537.36"
+  ],
+  "F-05G": [
+    "Mozilla/5.0 (Linux; Android 4.4.4; F-05G Build/V19R50E) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36"
+  ],
+  "SC-03G": [
+    "Mozilla/5.0 (Linux; Android 4.4.4; SC-03G Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.534 Safari/537.36",
+    "Mozilla/5.0 (Linux; Android 4.4.4; ja-jp; SC-03G Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 Chrome/28.0.1500.94 Safari/537.36",
+    "Mozilla/5.0 (Linux; Android 5.0.2; SC-03G Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.93 Safari/537.36",
+    "Mozilla/5.0 (Linux; Android 5.0.2; SC-03G Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0 Chrome/38.0.2125.102 Safari/537.36"
+  ],
+  "d-01G": [
+    "Mozilla/5.0 (Linux; Android 4.4.4; d-01G Build/HuaweiMediaPad) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.135 Safari/537.36"
+  ],
   "F-01D": [
     "Mozilla/5.0 (Linux; U; Android 3.2; ja-jp; F-01D Build/F0001) AppleWebKit/534.13 (KHTML, like Gecko) Version/4.0 Safari/534.13",
     "Mozilla/5.0 (Linux; U; Android 4.0.3; ja-jp; F-01D Build/V08R31A) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30"
@@ -361,7 +433,6 @@
     "Mozilla/5.0 (Linux; Android 4.4.4; SH-02G Build/SB050) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.117 Mobile Safari/537.36"
   ],
   "SH-03F": [
-    "Mozilla/5.0 (Linux; U; Android 4.0.4; ja-jp; SH-03F Build/S1160) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
     "Mozilla/5.0 (Linux; U; Android 4.0.4; ja-jp; SH-03F Build/S1160) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
   ],
   "SH-04D": [

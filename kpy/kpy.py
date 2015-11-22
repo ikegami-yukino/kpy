@@ -18,7 +18,7 @@ REGEXES = map(re.compile, (' (?P<name>[A-Z]{6,7} [A-Z0-9]{3,9}) ',
                            ' (?P<name>((Nokia)|(Series))[\-a-zA-Z0-9]+)/',
                            '\A(?P<name>[A-Z0-9\-]{3,})[/;]'))
 REGEXES = list(REGEXES)
-OTHER_MODELS = ('dtab01', )
+OTHER_MODELS = ('dtab01', 'd-01G')
 
 
 def extract(ua):
