@@ -1,4 +1,13 @@
 {
+  "401KC": [
+    "Mozilla/3.0(WILLCOM;KYOCERA/401KC/2;[FW_ver]/1/C256) NetFront/3.4"
+  ],
+  "402KC": [
+    "Mozilla/3.0(WILLCOM;KYOCERA/402KC/2;[FW_ver]/1/C256) NetFront/3.4"
+  ],
+  "301JR": [
+    "Mozilla/3.0(WILLCOM;JRC/301JR/2;[FW_ver]/1/C256) NetFront/3.4"
+  ],
   "AH-J3001V": [
     "Mozilla/3.0(DDIPOCKET;JRC/AH-J3001V/端末Ver/ブラウザVer/c50)CNF/2.0"
   ],
