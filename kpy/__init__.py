@@ -5,8 +5,8 @@ This module extracts model name of mobile phone, especially Japanese phone,
 from user agent."""
 from . import kpy
 
-VERSION = (0, 2, 1)
-__version__ = '0.2.1'
+VERSION = (0, 2, 2)
+__version__ = '0.2.2'
 __all__ = ['extract']
 
 extract = kpy.extract
