@@ -1,6 +1,6 @@
 kpy
 ==========
-|travis| |coveralls| |downloads| |version| |license|
+|travis| |coveralls| |version| |license|
 
 Kpy stands for Keitai (Japanese mobile phone) model name extractor on Python.
 
@@ -48,10 +48,6 @@ License
 .. |coveralls| image:: https://coveralls.io/repos/ikegami-yukino/kpy/badge.svg?branch=master&service=github
     :target: https://coveralls.io/github/ikegami-yukino/kpy?branch=master
     :alt: coveralls.io
-
-.. |downloads| image:: https://img.shields.io/pypi/dm/kpy.svg
-    :target: http://pypi.python.org/pypi/kpy/
-    :alt: downloads
 
 .. |version| image:: https://img.shields.io/pypi/v/kpy.svg
     :target: http://pypi.python.org/pypi/kpy/
